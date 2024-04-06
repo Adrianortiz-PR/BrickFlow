@@ -22,3 +22,4 @@ Atlantis, Octupus, 30040, 42, 0, $3.99, 9.5c, 2010, Polybag
 Atlantis, Piranha, 30041, 45, 0, $0, 0.0c, 2010, Polybag
 Atlantis, Mini Sub, 30042, 36, 1, $3.99, 11.1c, 2010, Polybag
 Ultra Agents, Riverside Raid, 70160, 88, 2, $11.99, 13.6, 2014, Box
+
