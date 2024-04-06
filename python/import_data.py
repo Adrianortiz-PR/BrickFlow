@@ -5,6 +5,7 @@ client = pymongo.MongoClient("mongodb://localhost:27017/")
 db = client["lego_sets"]
 collection = db["sets"]
 
+
 # Read data from TXT file and insert into MongoDB
 with open("lego_sets.txt", "r") as file:
     for line in file:
@@ -30,5 +31,4 @@ with open("lego_sets.txt", "r") as file:
             "year": year,
             "packaging": packaging
         }
-
         collection.insert_one(set_data)
