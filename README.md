@@ -4,29 +4,18 @@ This project is designed to read data from a TXT file, import it into MongoDB us
 
 ## Directory Structure
 
-Certainly! Here's a template for your `README.md` file:
-
-
-# Lego API Project
-
-This project is designed to read data from a TXT file, import it into MongoDB using a Python script, and then serve the data through a Go API.
-
-## Directory Structure
-
 ```markdown
 lego_api_project/
 │
 ├── python/
-│   ├── Dockerfile
-│   ├── requirements.txt
+│   ├── scrapper.py
 │   └── import_data.py
 │
 ├── go/
-│   ├── Dockerfile
+│   ├── go.sum
 │   ├── go.mod
 │   └── main.go
 │
-├── docker-compose.yml
 │
 └── README.md
 ```
@@ -39,21 +28,23 @@ lego_api_project/
     cd lego_api_project
     ```
 
-2. **Run Docker Compose:**
+2. **Run Python Script to import data:**
     ```bash
-    docker-compose up --build
+   pythin import_data.py
+    ```
+3. **Run Go script:**
+    ```bash
+  run go main.go
     ```
 
-3. **Access the API:**
+4. **Access the API:**
     The API will be available at `http://localhost:8080`.
 
 ## Usage
 
 - **Importing Data:**
     Modify the `lego_sets.txt` file in the `python` directory to include your Lego set data. Then, run the Python script to import the data into MongoDB.
-    ```bash
-    docker-compose run python-import
-    ```
+
 
 - **Viewing Lego Sets:**
     You can view all Lego sets by accessing `http://localhost:8080/sets` in your browser or API testing tool.
