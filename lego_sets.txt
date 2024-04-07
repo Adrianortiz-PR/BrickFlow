@@ -1,26 +1,5075 @@
-Atlantis, Ocean Speeder, 7976, 54, 1, $4.99, 9.2c, 2011, Box
-Atlantis, Seabed Stirder, 7977, 105, 2, $9.99, 9.5c, 2011, Box
-Atlantis, Angler Attack, 7978, 201, 2, $19.99, 9.9c, 2011, Box
-Atlantis, Deep Sea Raider, 7984, 265, 2, $29.99, 11.3c, 2011, Box
-Atlantis, City of Atlantis, 7985, 686, 5, $69.99, 10.2c, 2011, Box
-Atlantis, Monster Crab Clash, 8056, 68, 1, $6.99, 10.3c, 2010, Box
-Atlantis, Wreck Raider, 8057, 64, 2, $9.99, 15.6c, 2010, Box
-Atlantis, Guardian of the Deep, 8058, 144, 1, $14.99, 10.4c, 2010, Box
-Atlantis, Seabed Scavanger, 8059, 119, 2, $14.99, 12.6c, 2010, Box
-Atlantis, Typhoon Turbo Sub, 8060, 197, 2, $24.99, 12.7c, 2010, Box
-Atlantis, Gateway of the Squid, 8061, 354, 3, $39.99, 11.3c, 2010, Box
-Atlantis, Sea Jet, 8072, 23, 1, $3.99, 17.3c, 2010, Box
-Atlantis, Manta Warrior, 8073, 13, 1, $3.99, 30.7c, 2010, Box
-Atlantis, Neptune Carrier, 8075, 476, 4, $5.99, 12.6c, 2010, Box
-Atlantis, Deep Sea Striker, 8076, 260, 1, $19.99, 7.7c, 2010, Box
-Atlantis, Atlantis Exploration HQ, 8077, 473, 3, $49.99, 10.6c, 2010, Box
-Atlantis, Portal of Atlantis, 8078, 1007, 7, $99.99, 9.9c, 2010, Box
-Atlantis, Shadow Snapper, 8079, 246, 1, $29.99, 12.2c, 2010, Box
-Atlantis, Undersea Explorer, 8080, 364, 1, $39.99, 11.0c, 2010, Box
-Atlantis, Neptune Microsub, 20013, 63, 0, $0, 0.0c, 2010, Polybag
-Atlantis, Octupus, 30040, 42, 0, $3.99, 9.5c, 2010, Polybag
-Atlantis, Piranha, 30041, 45, 0, $0, 0.0c, 2010, Polybag
-Atlantis, Mini Sub, 30042, 36, 1, $3.99, 11.1c, 2010, Polybag
-Ultra Agents, Riverside Raid, 70160, 88, 2, $11.99, 13.6, 2014, Box
-
-
+Name: Natural History Museum
+Pieces: 4014
+Minifigs: 9
+Theme: Icons
+Set Number: 10326-1
+Year: 2024
+==================================================
+Name: Dune Atreides Royal Ornithopter
+Pieces: 1369
+Minifigs: 8
+Theme: Icons
+Set Number: 10327-1
+Year: 2024
+==================================================
+Name: Bouquet of Roses
+Pieces: 822
+Minifigs: None
+Theme: Icons
+Set Number: 10328-1
+Year: 2024
+==================================================
+Name: Tiny Plants
+Pieces: 758
+Minifigs: None
+Theme: Icons
+Set Number: 10329-1
+Year: 2024
+==================================================
+Name: McLaren MP4/4 & Ayrton Senna
+Pieces: 693
+Minifigs: 1
+Theme: Icons
+Set Number: 10330-1
+Year: 2024
+==================================================
+Name: Kingfisher
+Pieces: 834
+Minifigs: None
+Theme: Icons
+Set Number: 10331-1
+Year: 2024
+==================================================
+Name: Medieval Town Square
+Pieces: 3304
+Minifigs: 8
+Theme: Icons
+Set Number: 10332-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10333-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10334-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10335-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10337-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10338-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10339-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10340-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10368-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10369-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10370-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10391-1
+Year: 2024
+==================================================
+Name: Animal Train
+Pieces: 19
+Minifigs: None
+Theme: Duplo
+Set Number: 10412-1
+Year: 2024
+==================================================
+Name: Daily Routines: Bath Time
+Pieces: 15
+Minifigs: None
+Theme: Duplo
+Set Number: 10413-1
+Year: 2024
+==================================================
+Name: Daily Routines: Eating & Bedtime
+Pieces: 28
+Minifigs: None
+Theme: Duplo
+Set Number: 10414-1
+Year: 2024
+==================================================
+Name: Big Feelings & Emotions
+Pieces: 23
+Minifigs: None
+Theme: Duplo
+Set Number: 10415-1
+Year: 2024
+==================================================
+Name: Caring for Animals at the Farm
+Pieces: 74
+Minifigs: 2
+Theme: Duplo
+Set Number: 10416-1
+Year: 2024
+==================================================
+Name: Mack at the Race
+Pieces: 14
+Minifigs: None
+Theme: Duplo
+Set Number: 10417-1
+Year: 2024
+==================================================
+Name: Elsa & Bruni in the Enchanted Forest
+Pieces: 31
+Minifigs: None
+Theme: Duplo
+Set Number: 10418-1
+Year: 2024
+==================================================
+Name: Jazz Club
+Pieces: 2899
+Minifigs: 8
+Theme: Icons
+Set Number: 10312-1
+Year: 2023
+==================================================
+Name: Wildflower Bouquet
+Pieces: 939
+Minifigs: None
+Theme: Icons
+Set Number: 10313-1
+Year: 2023
+==================================================
+Name: Dried Flower Centrepiece
+Pieces: 812
+Minifigs: None
+Theme: Icons
+Set Number: 10314-1
+Year: 2023
+==================================================
+Name: Tranquil Garden
+Pieces: 1363
+Minifigs: None
+Theme: Icons
+Set Number: 10315-1
+Year: 2023
+==================================================
+Name: The Lord of the Rings: Rivendell
+Pieces: 6167
+Minifigs: 21
+Theme: Icons
+Set Number: 10316-1
+Year: 2023
+==================================================
+Name: Land Rover Classic Defender 90
+Pieces: 2336
+Minifigs: None
+Theme: Icons
+Set Number: 10317-1
+Year: 2023
+==================================================
+Name: Concorde
+Pieces: 2083
+Minifigs: None
+Theme: Icons
+Set Number: 10318-1
+Year: 2023
+==================================================
+Name: Eldorado Fortress
+Pieces: 2509
+Minifigs: 9
+Theme: Icons
+Set Number: 10320-1
+Year: 2023
+==================================================
+Name: Corvette
+Pieces: 1210
+Minifigs: None
+Theme: Icons
+Set Number: 10321-1
+Year: 2023
+==================================================
+Name: PAC-MAN Arcade
+Pieces: 2651
+Minifigs: 1
+Theme: Icons
+Set Number: 10323-1
+Year: 2023
+==================================================
+Name: Alpine Lodge
+Pieces: 1517
+Minifigs: 5
+Theme: Icons
+Set Number: 10325-1
+Year: 2023
+==================================================
+Name: Learn About Chinese Culture
+Pieces: 124
+Minifigs: 3
+Theme: Duplo
+Set Number: 10411-1
+Year: 2023
+==================================================
+Name: The Majestic Horse
+Pieces: 5
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 010423-1
+Year: 2023
+==================================================
+Name: Bakey with Cakey Fun
+Pieces: 58
+Minifigs: 2
+Theme: Gabby's Dollhouse
+Set Number: 10785-1
+Year: 2023
+==================================================
+Name: Gabby & MerCat's Ship & Spa
+Pieces: 88
+Minifigs: 2
+Theme: Gabby's Dollhouse
+Set Number: 10786-1
+Year: 2023
+==================================================
+Name: Kitty Fairy's Garden Party
+Pieces: 130
+Minifigs: 3
+Theme: Gabby's Dollhouse
+Set Number: 10787-1
+Year: 2023
+==================================================
+Name: Gabby's Dollhouse
+Pieces: 498
+Minifigs: 4
+Theme: Gabby's Dollhouse
+Set Number: 10788-1
+Year: 2023
+==================================================
+Name: Spider-Man's Car and Doc Ock
+Pieces: 48
+Minifigs: 2
+Theme: Marvel Super Heroes
+Set Number: 10789-1
+Year: 2023
+==================================================
+Name: Team Spidey at Green Goblin's Lighthouse
+Pieces: 149
+Minifigs: 4
+Theme: Marvel Super Heroes
+Set Number: 10790-1
+Year: 2023
+==================================================
+Name: Team Spidey's Mobile Headquarters
+Pieces: 187
+Minifigs: 5
+Theme: Marvel Super Heroes
+Set Number: 10791-1
+Year: 2023
+==================================================
+Name: Alphabet Town
+Pieces: 87
+Minifigs: 2
+Theme: Duplo
+Set Number: 10935-1
+Year: 2023
+==================================================
+Name: Growing Carrot
+Pieces: 11
+Minifigs: None
+Theme: Duplo
+Set Number: 10981-1
+Year: 2023
+==================================================
+Name: Fruit and Vegetable Tractor
+Pieces: 19
+Minifigs: 1
+Theme: Duplo
+Set Number: 10982-1
+Year: 2023
+==================================================
+Name: Organic Market
+Pieces: 40
+Minifigs: None
+Theme: Duplo
+Set Number: 10983-1
+Year: 2023
+==================================================
+Name: Organic Garden
+Pieces: 43
+Minifigs: None
+Theme: Duplo
+Set Number: 10984-1
+Year: 2023
+==================================================
+Name: Wind Turbine and Electric Car
+Pieces: 16
+Minifigs: 1
+Theme: Duplo
+Set Number: 10985-1
+Year: 2023
+==================================================
+Name: Family House on Wheels
+Pieces: 31
+Minifigs: 2
+Theme: Duplo
+Set Number: 10986-1
+Year: 2023
+==================================================
+Name: Recycling Truck
+Pieces: 15
+Minifigs: 1
+Theme: Duplo
+Set Number: 10987-1
+Year: 2023
+==================================================
+Name: The Bus Ride
+Pieces: 16
+Minifigs: 3
+Theme: Duplo
+Set Number: 10988-1
+Year: 2023
+==================================================
+Name: Water Park
+Pieces: 19
+Minifigs: 2
+Theme: Duplo
+Set Number: 10989-1
+Year: 2023
+==================================================
+Name: Construction Site
+Pieces: 61
+Minifigs: 3
+Theme: Duplo
+Set Number: 10990-1
+Year: 2023
+==================================================
+Name: Dream Playground
+Pieces: 75
+Minifigs: 4
+Theme: Duplo
+Set Number: 10991-1
+Year: 2023
+==================================================
+Name: Life at the Day-Care Centre
+Pieces: 67
+Minifigs: 4
+Theme: Duplo
+Set Number: 10992-1
+Year: 2023
+==================================================
+Name: 3in1 Tree House
+Pieces: 126
+Minifigs: 5
+Theme: Duplo
+Set Number: 10993-1
+Year: 2023
+==================================================
+Name: 3in1 Family House
+Pieces: 218
+Minifigs: 5
+Theme: Duplo
+Set Number: 10994-1
+Year: 2023
+==================================================
+Name: Spider-Man's House
+Pieces: 25
+Minifigs: 2
+Theme: Duplo
+Set Number: 10995-1
+Year: 2023
+==================================================
+Name: Lightning McQueen & Mater's Car Wash Fun
+Pieces: 23
+Minifigs: 2
+Theme: Duplo
+Set Number: 10996-1
+Year: 2023
+==================================================
+Name: Camping Adventure
+Pieces: 37
+Minifigs: 4
+Theme: Duplo
+Set Number: 10997-1
+Year: 2023
+==================================================
+Name: 3in1 Magical Castle
+Pieces: 160
+Minifigs: 4
+Theme: Duplo
+Set Number: 10998-1
+Year: 2023
+==================================================
+Name: Creative Neon Fun
+Pieces: 333
+Minifigs: None
+Theme: Classic
+Set Number: 11027-1
+Year: 2023
+==================================================
+Name: Creative Pastel Fun
+Pieces: 333
+Minifigs: None
+Theme: Classic
+Set Number: 11028-1
+Year: 2023
+==================================================
+Name: Creative Party Box
+Pieces: 900
+Minifigs: None
+Theme: Classic
+Set Number: 11029-1
+Year: 2023
+==================================================
+Name: Lots of Bricks
+Pieces: 1000
+Minifigs: None
+Theme: Classic
+Set Number: 11030-1
+Year: 2023
+==================================================
+Name: Creative Monkey Fun
+Pieces: 135
+Minifigs: None
+Theme: Classic
+Set Number: 11031-1
+Year: 2023
+==================================================
+Name: Creative Colour Fun
+Pieces: 1500
+Minifigs: None
+Theme: Classic
+Set Number: 11032-1
+Year: 2023
+==================================================
+Name: Creative Fantasy Universe
+Pieces: 1800
+Minifigs: None
+Theme: Classic
+Set Number: 11033-1
+Year: 2023
+==================================================
+Name: Build Your Own LEGO Escape Room parts
+Pieces: 49
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11959-1
+Year: 2023
+==================================================
+Name: Polar Bear
+Pieces: None
+Minifigs: None
+Theme: Creator
+Set Number: 11974-1
+Year: 2023
+==================================================
+Name: Tractor
+Pieces: None
+Minifigs: None
+Theme: Creator
+Set Number: 11975-1
+Year: 2023
+==================================================
+Name: Space Shuttle
+Pieces: None
+Minifigs: None
+Theme: Creator
+Set Number: 11976-1
+Year: 2023
+==================================================
+Name: Hammerhead Shark
+Pieces: None
+Minifigs: None
+Theme: Creator
+Set Number: 11977-1
+Year: 2023
+==================================================
+Name: Viking Ship
+Pieces: None
+Minifigs: None
+Theme: Creator
+Set Number: 11978-1
+Year: 2023
+==================================================
+Name: The LEGO Christmas Games Book Parts
+Pieces: None
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11984-1
+Year: 2023
+==================================================
+Name: Himeji Castle
+Pieces: 2125
+Minifigs: None
+Theme: Architecture
+Set Number: 21060-1
+Year: 2023
+==================================================
+Name: The Swamp Adventure
+Pieces: 65
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21240-1
+Year: 2023
+==================================================
+Name: The Bee Cottage
+Pieces: 254
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21241-1
+Year: 2023
+==================================================
+Name: The End Arena
+Pieces: 252
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21242-1
+Year: 2023
+==================================================
+Name: The Frozen Peaks
+Pieces: 304
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21243-1
+Year: 2023
+==================================================
+Name: The Sword Outpost
+Pieces: 427
+Minifigs: 5
+Theme: Minecraft
+Set Number: 21244-1
+Year: 2023
+==================================================
+Name: The Panda Haven
+Pieces: 553
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21245-1
+Year: 2023
+==================================================
+Name: The Deep Dark Battle
+Pieces: 584
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21246-1
+Year: 2023
+==================================================
+Name: The Axolotl House
+Pieces: 242
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21247-1
+Year: 2023
+==================================================
+Name: The Pumpkin Farm
+Pieces: 257
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21248-1
+Year: 2023
+==================================================
+Name: The Crafting Box 4.0
+Pieces: 605
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21249-1
+Year: 2023
+==================================================
+Name: The Iron Golem Fortress
+Pieces: 868
+Minifigs: 6
+Theme: Minecraft
+Set Number: 21250-1
+Year: 2023
+==================================================
+Name: A-Frame Cabin
+Pieces: 2082
+Minifigs: 4
+Theme: Ideas
+Set Number: 21338-1
+Year: 2023
+==================================================
+Name: BTS Dynamite
+Pieces: 749
+Minifigs: 7
+Theme: Ideas
+Set Number: 21339-1
+Year: 2023
+==================================================
+Name: Tales of the Space Age
+Pieces: 688
+Minifigs: None
+Theme: Ideas
+Set Number: 21340-1
+Year: 2023
+==================================================
+Name: Disney Hocus Pocus: The Sanderson Sisters' Cottage
+Pieces: 2316
+Minifigs: 9
+Theme: Ideas
+Set Number: 21341-1
+Year: 2023
+==================================================
+Name: The Insect Collection
+Pieces: 1111
+Minifigs: None
+Theme: Ideas
+Set Number: 21342-1
+Year: 2023
+==================================================
+Name: Viking Village
+Pieces: 2103
+Minifigs: 4
+Theme: Ideas
+Set Number: 21343-1
+Year: 2023
+==================================================
+Name: The Orient Express Train
+Pieces: 2540
+Minifigs: 8
+Theme: Ideas
+Set Number: 21344-1
+Year: 2023
+==================================================
+Name: Finnius Dash
+Pieces: 4
+Minifigs: None
+Theme: LEGO Games
+Set Number: 30629-1
+Year: 2023
+==================================================
+Name: Aquadirt Racer
+Pieces: 61
+Minifigs: None
+Theme: LEGO Games
+Set Number: 30630-1
+Year: 2023
+==================================================
+Name: Skate Ramp
+Pieces: 46
+Minifigs: 1
+Theme: Friends
+Set Number: 30633-1
+Year: 2023
+==================================================
+Name: Caring for Bees & Beehives
+Pieces: 22
+Minifigs: None
+Theme: Duplo
+Set Number: 10419-1
+Year: 2024
+==================================================
+Name: Alphabet Truck
+Pieces: 36
+Minifigs: 2
+Theme: Duplo
+Set Number: 10421-1
+Year: 2024
+==================================================
+Name: 3in1 Space Shuttle Adventure
+Pieces: 58
+Minifigs: 2
+Theme: Duplo
+Set Number: 10422-1
+Year: 2024
+==================================================
+Name: Buildable People with Big Emotions
+Pieces: 71
+Minifigs: None
+Theme: Duplo
+Set Number: 10423-1
+Year: 2024
+==================================================
+Name: Peppa Pig Garden and Tree House
+Pieces: More
+Minifigs: None
+Theme: Duplo
+Set Number: 10431-1
+Year: 2024
+==================================================
+Name: Peppa Pig Boat Trip
+Pieces: More
+Minifigs: None
+Theme: Duplo
+Set Number: 10432-1
+Year: 2024
+==================================================
+Name: Peppa Pig Birthday House
+Pieces: More
+Minifigs: None
+Theme: Duplo
+Set Number: 10433-1
+Year: 2024
+==================================================
+Name: Peppa Pig Supermarket
+Pieces: More
+Minifigs: None
+Theme: Duplo
+Set Number: 10434-1
+Year: 2024
+==================================================
+Name: Visit to the Vet Clinic
+Pieces: 28
+Minifigs: 1
+Theme: Duplo
+Set Number: 10438-1
+Year: 2024
+==================================================
+Name: Drill Spinner Vehicle
+Pieces: 58
+Minifigs: 2
+Theme: Marvel Super Heroes
+Set Number: 10792-1
+Year: 2024
+==================================================
+Name: Spidey vs. Green Goblin 
+Pieces: 84
+Minifigs: None
+Theme: Marvel Super Heroes
+Set Number: 10793-1
+Year: 2024
+==================================================
+Name: Team Spidey Web Spinner Headquarters
+Pieces: 193
+Minifigs: 5
+Theme: Marvel Super Heroes
+Set Number: 10794-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Gabby's Dollhouse
+Set Number: 10795-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Gabby's Dollhouse
+Set Number: 10796-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Gabby's Dollhouse
+Set Number: 10797-1
+Year: 2024
+==================================================
+Name: Creative Pets
+Pieces: 450
+Minifigs: None
+Theme: Classic
+Set Number: 11034-1
+Year: 2024
+==================================================
+Name: Creative Houses
+Pieces: 850
+Minifigs: None
+Theme: Classic
+Set Number: 11035-1
+Year: 2024
+==================================================
+Name: Creative Vehicles
+Pieces: 900
+Minifigs: None
+Theme: Classic
+Set Number: 11036-1
+Year: 2024
+==================================================
+Name: Creative Space Planets
+Pieces: 450
+Minifigs: None
+Theme: Classic
+Set Number: 11037-1
+Year: 2024
+==================================================
+Name: Vibrant Creative Brick Box
+Pieces: 850
+Minifigs: None
+Theme: Classic
+Set Number: 11038-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Architecture
+Set Number: 21061-1
+Year: 2024
+==================================================
+Name: Steve's Desert Expedition
+Pieces: 75
+Minifigs: 1
+Theme: Minecraft
+Set Number: 21251-1
+Year: 2024
+==================================================
+Name: The Armory
+Pieces: 203
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21252-1
+Year: 2024
+==================================================
+Name: The Animal Sanctuary
+Pieces: 206
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21253-1
+Year: 2024
+==================================================
+Name: The Turtle Beach House
+Pieces: 234
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21254-1
+Year: 2024
+==================================================
+Name: The Nether Portal Ambush
+Pieces: 352
+Minifigs: 1
+Theme: Minecraft
+Set Number: 21255-1
+Year: 2024
+==================================================
+Name: The Frog House
+Pieces: 400
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21256-1
+Year: 2024
+==================================================
+Name: The Devourer Showdown
+Pieces: 420
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21257-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Minecraft
+Set Number: 21259-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Minecraft
+Set Number: 21260-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Minecraft
+Set Number: 21261-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Minecraft
+Set Number: 21263-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Minecraft
+Set Number: 21264-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Minecraft
+Set Number: 21265-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Minecraft
+Set Number: 21266-1
+Year: 2024
+==================================================
+Name: Polaroid OneStep SX-70 Camera
+Pieces: 516
+Minifigs: None
+Theme: Ideas
+Set Number: 21345-1
+Year: 2024
+==================================================
+Name: Family Tree
+Pieces: 1040
+Minifigs: None
+Theme: Ideas
+Set Number: 21346-1
+Year: 2024
+==================================================
+Name: Red London Telephone Box
+Pieces: 1460
+Minifigs: None
+Theme: Ideas
+Set Number: 21347-1
+Year: 2024
+==================================================
+Name: Dungeons & Dragons: Red Dragon's Tale
+Pieces: 3745
+Minifigs: None
+Theme: Ideas
+Set Number: 21348-1
+Year: 2024
+==================================================
+Name: {Cat}
+Pieces: None
+Minifigs: None
+Theme: Ideas
+Set Number: 21349-1
+Year: 2024
+==================================================
+Name: {Jaws}
+Pieces: None
+Minifigs: None
+Theme: Ideas
+Set Number: 21350-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Ideas
+Set Number: 21351-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Ideas
+Set Number: 21352-1
+Year: 2024
+==================================================
+Name: Mobile Music Trailer
+Pieces: 56
+Minifigs: 1
+Theme: Friends
+Set Number: 30658-1
+Year: 2024
+==================================================
+Name: Flower Garden
+Pieces: 64
+Minifigs: None
+Theme: Friends
+Set Number: 30659-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Dreamzzz
+Set Number: 30660-1
+Year: 2024
+==================================================
+Name: Asha's Welcome Booth
+Pieces: 46
+Minifigs: 1
+Theme: Disney
+Set Number: 30661-1
+Year: 2024
+==================================================
+Name: Maple's Pumpkin Garden
+Pieces: 29
+Minifigs: 1
+Theme: Animal Crossing
+Set Number: 30662-1
+Year: 2024
+==================================================
+Name: Space Hoverbike
+Pieces: 46
+Minifigs: 1
+Theme: City
+Set Number: 30663-1
+Year: 2024
+==================================================
+Name: Police Off-Road Buggy Car
+Pieces: 35
+Minifigs: 1
+Theme: City
+Set Number: 30664-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: City
+Set Number: 30665-1
+Year: 2024
+==================================================
+Name: Gift Animals
+Pieces: 75
+Minifigs: None
+Theme: Creator
+Set Number: 30666-1
+Year: 2024
+==================================================
+Name: Animal Birthday Party
+Pieces: 72
+Minifigs: None
+Theme: Creator
+Set Number: 30667-1
+Year: 2024
+==================================================
+Name: Easter Bunny with Colourful Eggs
+Pieces: 68
+Minifigs: None
+Theme: Creator
+Set Number: 30668-1
+Year: 2024
+==================================================
+Name: Iconic Red Plane
+Pieces: 51
+Minifigs: None
+Theme: Creator
+Set Number: 30669-1
+Year: 2024
+==================================================
+Name: Santa's Sleigh Ride
+Pieces: None
+Minifigs: None
+Theme: Creator
+Set Number: 30670-1
+Year: 2024
+==================================================
+Name: Aurora's Forest Playground
+Pieces: 60
+Minifigs: 1
+Theme: Disney
+Set Number: 30671-1
+Year: 2024
+==================================================
+Name: Steve and Baby Panda
+Pieces: 35
+Minifigs: 1
+Theme: Minecraft
+Set Number: 30672-1
+Year: 2024
+==================================================
+Name: My First Duck
+Pieces: 7
+Minifigs: None
+Theme: Duplo
+Set Number: 30673-1
+Year: 2024
+==================================================
+Name: Zane's Dragon Power Vehicles
+Pieces: 55
+Minifigs: None
+Theme: Ninjago
+Set Number: 30674-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Ninjago
+Set Number: 30675-1
+Year: 2024
+==================================================
+Name: Kiki's Coconut Attack
+Pieces: 42
+Minifigs: 1
+Theme: Sonic the Hedgehog
+Set Number: 30676-1
+Year: 2024
+==================================================
+Name: Draco in the Forbidden Forest
+Pieces: 33
+Minifigs: 1
+Theme: Harry Potter
+Set Number: 30677-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Despicable Me 4
+Set Number: 30678-1
+Year: 2024
+==================================================
+Name: Venom Street Bike
+Pieces: 53
+Minifigs: 1
+Theme: Marvel Super Heroes
+Set Number: 30679-1
+Year: 2024
+==================================================
+Name: AAT
+Pieces: 75
+Minifigs: None
+Theme: Star Wars
+Set Number: 30680-1
+Year: 2024
+==================================================
+Name: NASA Mars Rover Perseverance
+Pieces: 83
+Minifigs: None
+Theme: Technic
+Set Number: 30682-1
+Year: 2024
+==================================================
+Name: McLaren Formula 1 Car
+Pieces: 58
+Minifigs: None
+Theme: Speed Champions
+Set Number: 30683-1
+Year: 2024
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Star Wars
+Set Number: 30685-1
+Year: 2024
+==================================================
+Name: Red Dragon
+Pieces: 149
+Minifigs: None
+Theme: Creator
+Set Number: 31145-1
+Year: 2024
+==================================================
+Name: Flatbed Truck with Helicopter
+Pieces: 270
+Minifigs: None
+Theme: Creator
+Set Number: 31146-1
+Year: 2024
+==================================================
+Name: Retro Camera
+Pieces: 261
+Minifigs: None
+Theme: Creator
+Set Number: 31147-1
+Year: 2024
+==================================================
+Name: Retro Roller Skate
+Pieces: 342
+Minifigs: None
+Theme: Creator
+Set Number: 31148-1
+Year: 2024
+==================================================
+Name: Flowers in Watering Can
+Pieces: 420
+Minifigs: None
+Theme: Creator
+Set Number: 31149-1
+Year: 2024
+==================================================
+Name: Wild Safari Animals
+Pieces: 780
+Minifigs: None
+Theme: Creator
+Set Number: 31150-1
+Year: 2024
+==================================================
+Name: Friendship Flowers
+Pieces: 84
+Minifigs: None
+Theme: Friends
+Set Number: 30634-1
+Year: 2023
+==================================================
+Name: Beach Cleanup
+Pieces: 52
+Minifigs: 1
+Theme: Friends
+Set Number: 30635-1
+Year: 2023
+==================================================
+Name: Z-Blob and Bunchu Spider Escape
+Pieces: 44
+Minifigs: 1
+Theme: Dreamzzz
+Set Number: 30636-1
+Year: 2023
+==================================================
+Name: Animal Tray and Bag Tag
+Pieces: 94
+Minifigs: None
+Theme: Dots
+Set Number: 30637-1
+Year: 2023
+==================================================
+Name: Police Bike Training
+Pieces: 36
+Minifigs: 1
+Theme: City
+Set Number: 30638-1
+Year: 2023
+==================================================
+Name: Dog Park and Scooter
+Pieces: 24
+Minifigs: 1
+Theme: City
+Set Number: 30639-1
+Year: 2023
+==================================================
+Name: Race Car
+Pieces: 44
+Minifigs: 1
+Theme: City
+Set Number: 30640-1
+Year: 2023
+==================================================
+Name: Panda Bear
+Pieces: 83
+Minifigs: None
+Theme: Creator
+Set Number: 30641-1
+Year: 2023
+==================================================
+Name: Birthday Train
+Pieces: 58
+Minifigs: None
+Theme: Creator
+Set Number: 30642-1
+Year: 2023
+==================================================
+Name: Easter Chickens
+Pieces: 61
+Minifigs: None
+Theme: Creator
+Set Number: 30643-1
+Year: 2023
+==================================================
+Name: Vintage Car
+Pieces: 59
+Minifigs: None
+Theme: Creator
+Set Number: 30644-1
+Year: 2023
+==================================================
+Name: Snowman
+Pieces: 78
+Minifigs: None
+Theme: Creator
+Set Number: 30645-1
+Year: 2023
+==================================================
+Name: Moana's Dolphin Cove
+Pieces: 47
+Minifigs: 1
+Theme: Disney
+Set Number: 30646-1
+Year: 2023
+==================================================
+Name: The Dripstone Cavern
+Pieces: 45
+Minifigs: 2
+Theme: Minecraft
+Set Number: 30647-1
+Year: 2023
+==================================================
+Name: Whale
+Pieces: 9
+Minifigs: None
+Theme: Duplo
+Set Number: 30648-1
+Year: 2023
+==================================================
+Name: Ice Dragon Creature
+Pieces: 70
+Minifigs: None
+Theme: Ninjago
+Set Number: 30649-1
+Year: 2023
+==================================================
+Name: Kai and Rapton's Temple Battle
+Pieces: 47
+Minifigs: 2
+Theme: Ninjago
+Set Number: 30650-1
+Year: 2023
+==================================================
+Name: Quidditch Practice
+Pieces: 55
+Minifigs: 1
+Theme: Harry Potter
+Set Number: 30651-1
+Year: 2023
+==================================================
+Name: Doctor Strange's Interdimensional Portal
+Pieces: 44
+Minifigs: 1
+Theme: Marvel Super Heroes
+Set Number: 30652-1
+Year: 2023
+==================================================
+Name: Batman 1992
+Pieces: 40
+Minifigs: 1
+Theme: DC Comics Super Heroes
+Set Number: 30653-1
+Year: 2023
+==================================================
+Name: X-wing Starfighter
+Pieces: 87
+Minifigs: None
+Theme: Star Wars
+Set Number: 30654-1
+Year: 2023
+==================================================
+Name: Forklift with Pallet
+Pieces: 78
+Minifigs: None
+Theme: Technic
+Set Number: 30655-1
+Year: 2023
+==================================================
+Name: Monkey King Marketplace
+Pieces: 66
+Minifigs: 1
+Theme: Monkie Kid
+Set Number: 30656-1
+Year: 2023
+==================================================
+Name: McLaren Solus GT
+Pieces: 95
+Minifigs: None
+Theme: Speed Champions
+Set Number: 30657-1
+Year: 2023
+==================================================
+Name: White Rabbit
+Pieces: 258
+Minifigs: None
+Theme: Creator
+Set Number: 31133-1
+Year: 2023
+==================================================
+Name: Bookshop
+Pieces: 2504
+Minifigs: 5
+Theme: Creator Expert
+Set Number: 10270-1
+Year: 2020
+==================================================
+Name: Fiat 500
+Pieces: 960
+Minifigs: None
+Theme: Creator Expert
+Set Number: 10271-1
+Year: 2020
+==================================================
+Name: Old Trafford - Manchester United
+Pieces: 3898
+Minifigs: None
+Theme: Creator Expert
+Set Number: 10272-1
+Year: 2020
+==================================================
+Name: Haunted House
+Pieces: 3231
+Minifigs: 10
+Theme: Icons
+Set Number: 10273-1
+Year: 2020
+==================================================
+Name: Ghostbusters ECTO-1
+Pieces: 2352
+Minifigs: None
+Theme: Icons
+Set Number: 10274-1
+Year: 2020
+==================================================
+Name: Elf Club House
+Pieces: 1197
+Minifigs: 4
+Theme: Icons
+Set Number: 10275-1
+Year: 2020
+==================================================
+Name: Colosseum
+Pieces: 9036
+Minifigs: None
+Theme: Icons
+Set Number: 10276-1
+Year: 2020
+==================================================
+Name: Crocodile Locomotive
+Pieces: 1271
+Minifigs: 2
+Theme: Icons
+Set Number: 10277-1
+Year: 2020
+==================================================
+Name: Heart Box
+Pieces: 80
+Minifigs: None
+Theme: Duplo
+Set Number: 10909-1
+Year: 2020
+==================================================
+Name: Brick Box
+Pieces: 65
+Minifigs: 2
+Theme: Duplo
+Set Number: 10913-1
+Year: 2020
+==================================================
+Name: Deluxe Brick Box
+Pieces: 85
+Minifigs: 2
+Theme: Duplo
+Set Number: 10914-1
+Year: 2020
+==================================================
+Name: Alphabet Truck
+Pieces: 36
+Minifigs: 2
+Theme: Duplo
+Set Number: 10915-1
+Year: 2020
+==================================================
+Name: Fire Truck
+Pieces: 6
+Minifigs: None
+Theme: Duplo
+Set Number: 10917-1
+Year: 2020
+==================================================
+Name: Tow Truck
+Pieces: 7
+Minifigs: None
+Theme: Duplo
+Set Number: 10918-1
+Year: 2020
+==================================================
+Name: Batcave
+Pieces: 33
+Minifigs: 3
+Theme: Duplo
+Set Number: 10919-1
+Year: 2020
+==================================================
+Name: Elsa and Olaf's Tea Party
+Pieces: 17
+Minifigs: 2
+Theme: Duplo
+Set Number: 10920-1
+Year: 2020
+==================================================
+Name: Super Heroes Lab
+Pieces: 30
+Minifigs: 3
+Theme: Duplo
+Set Number: 10921-1
+Year: 2020
+==================================================
+Name: Ariel's Undersea Castle
+Pieces: 35
+Minifigs: 1
+Theme: Duplo
+Set Number: 10922-1
+Year: 2020
+==================================================
+Name: Lightning McQueen's Race Day
+Pieces: 42
+Minifigs: 2
+Theme: Duplo
+Set Number: 10924-1
+Year: 2020
+==================================================
+Name: Playroom
+Pieces: 17
+Minifigs: 2
+Theme: Duplo
+Set Number: 10925-1
+Year: 2020
+==================================================
+Name: Bedroom
+Pieces: 16
+Minifigs: 2
+Theme: Duplo
+Set Number: 10926-1
+Year: 2020
+==================================================
+Name: Pizza Stand
+Pieces: 18
+Minifigs: 1
+Theme: Duplo
+Set Number: 10927-1
+Year: 2020
+==================================================
+Name: Bakery
+Pieces: 46
+Minifigs: 2
+Theme: Duplo
+Set Number: 10928-1
+Year: 2020
+==================================================
+Name: Modular Playhouse
+Pieces: 129
+Minifigs: 3
+Theme: Duplo
+Set Number: 10929-1
+Year: 2020
+==================================================
+Name: Bulldozer
+Pieces: 10
+Minifigs: 1
+Theme: Duplo
+Set Number: 10930-1
+Year: 2020
+==================================================
+Name: Corner Garage
+Pieces: 2569
+Minifigs: 6
+Theme: Creator Expert
+Set Number: 10264-1
+Year: 2019
+==================================================
+Name: Ford Mustang
+Pieces: 1471
+Minifigs: None
+Theme: Creator Expert
+Set Number: 10265-1
+Year: 2019
+==================================================
+Name: NASA Apollo 11 Lunar Lander
+Pieces: 1087
+Minifigs: 2
+Theme: Creator Expert
+Set Number: 10266-1
+Year: 2019
+==================================================
+Name: Gingerbread House
+Pieces: 1477
+Minifigs: 2
+Theme: Creator Expert
+Set Number: 10267-1
+Year: 2019
+==================================================
+Name: Harley-Davidson Fat Boy
+Pieces: 1023
+Minifigs: None
+Theme: Creator Expert
+Set Number: 10269-1
+Year: 2019
+==================================================
+Name: Woody & RC
+Pieces: 69
+Minifigs: 1
+Theme: Disney
+Set Number: 10766-1
+Year: 2019
+==================================================
+Name: Duke Caboom's Stunt Show
+Pieces: 120
+Minifigs: 2
+Theme: Disney
+Set Number: 10767-1
+Year: 2019
+==================================================
+Name: Buzz and Bo Peep's Playground Adventure
+Pieces: 139
+Minifigs: 3
+Theme: Disney
+Set Number: 10768-1
+Year: 2019
+==================================================
+Name: RV Vacation
+Pieces: 178
+Minifigs: 3
+Theme: Disney
+Set Number: 10769-1
+Year: 2019
+==================================================
+Name: Buzz & Woody's Carnival Mania!
+Pieces: 230
+Minifigs: 5
+Theme: Disney
+Set Number: 10770-1
+Year: 2019
+==================================================
+Name: Carnival Thrill Coaster
+Pieces: 98
+Minifigs: 2
+Theme: Disney
+Set Number: 10771-1
+Year: 2019
+==================================================
+Name: My First Tow Truck
+Pieces: 11
+Minifigs: None
+Theme: Duplo
+Set Number: 10883-1
+Year: 2019
+==================================================
+Name: My First Balancing Animals
+Pieces: 15
+Minifigs: None
+Theme: Duplo
+Set Number: 10884-1
+Year: 2019
+==================================================
+Name: My First Fun Puzzle
+Pieces: 15
+Minifigs: None
+Theme: Duplo
+Set Number: 10885-1
+Year: 2019
+==================================================
+Name: My First Car Creations
+Pieces: 34
+Minifigs: None
+Theme: Duplo
+Set Number: 10886-1
+Year: 2019
+==================================================
+Name: Creative Fun
+Pieces: 120
+Minifigs: 1
+Theme: Duplo
+Set Number: 10887-1
+Year: 2019
+==================================================
+Name: Mickey's Vacation House
+Pieces: 57
+Minifigs: 3
+Theme: Duplo
+Set Number: 10889-1
+Year: 2019
+==================================================
+Name: Spider-Man vs. Electro
+Pieces: 29
+Minifigs: 2
+Theme: Duplo
+Set Number: 10893-1
+Year: 2019
+==================================================
+Name: Toy Story Train
+Pieces: 21
+Minifigs: 2
+Theme: Duplo
+Set Number: 10894-1
+Year: 2019
+==================================================
+Name: Emmet and Lucy's Visitors from the DUPLO Planet
+Pieces: 53
+Minifigs: 2
+Theme: Duplo
+Set Number: 10895-1
+Year: 2019
+==================================================
+Name: My First Minnie Build
+Pieces: 10
+Minifigs: None
+Theme: Duplo
+Set Number: 10897-1
+Year: 2019
+==================================================
+Name: My First Mickey Build
+Pieces: 9
+Minifigs: None
+Theme: Duplo
+Set Number: 10898-1
+Year: 2019
+==================================================
+Name: Frozen Ice Castle
+Pieces: 59
+Minifigs: 3
+Theme: Duplo
+Set Number: 10899-1
+Year: 2019
+==================================================
+Name: Police Bike
+Pieces: 8
+Minifigs: 1
+Theme: Duplo
+Set Number: 10900-1
+Year: 2019
+==================================================
+Name: Fire Truck
+Pieces: 21
+Minifigs: 2
+Theme: Duplo
+Set Number: 10901-1
+Year: 2019
+==================================================
+Name: Police Station
+Pieces: 2923
+Minifigs: 5
+Theme: Icons
+Set Number: 10278-1
+Year: 2021
+==================================================
+Name: Volkswagen T2 Camper Van
+Pieces: 2207
+Minifigs: None
+Theme: Icons
+Set Number: 10279-1
+Year: 2021
+==================================================
+Name: Flower Bouquet
+Pieces: 756
+Minifigs: None
+Theme: Icons
+Set Number: 10280-1
+Year: 2021
+==================================================
+Name: Bonsai Tree
+Pieces: 878
+Minifigs: None
+Theme: Icons
+Set Number: 10281-1
+Year: 2021
+==================================================
+Name: Adidas Originals Superstar
+Pieces: 731
+Minifigs: None
+Theme: Icons
+Set Number: 10282-1
+Year: 2021
+==================================================
+Name: Adidas Originals Superstar X Footshop 'Blueprinting'
+Pieces: None
+Minifigs: None
+Theme: Icons
+Set Number: 10282-2
+Year: 2021
+==================================================
+Name: NASA Space Shuttle Discovery
+Pieces: 2354
+Minifigs: None
+Theme: Icons
+Set Number: 10283-1
+Year: 2021
+==================================================
+Name: Camp Nou - FC Barcelona
+Pieces: 5509
+Minifigs: None
+Theme: Icons
+Set Number: 10284-1
+Year: 2021
+==================================================
+Name: Bird of Paradise
+Pieces: 1173
+Minifigs: None
+Theme: Icons
+Set Number: 10289-1
+Year: 2021
+==================================================
+Name: Pickup Truck
+Pieces: 1677
+Minifigs: None
+Theme: Icons
+Set Number: 10290-1
+Year: 2021
+==================================================
+Name: Queer Eye – The Fab 5 Loft
+Pieces: 974
+Minifigs: 7
+Theme: Icons
+Set Number: 10291-1
+Year: 2021
+==================================================
+Name: The Friends Apartments
+Pieces: 2048
+Minifigs: 7
+Theme: Icons
+Set Number: 10292-1
+Year: 2021
+==================================================
+Name: Santa's Visit
+Pieces: 1445
+Minifigs: 4
+Theme: Icons
+Set Number: 10293-1
+Year: 2021
+==================================================
+Name: Titanic
+Pieces: 9090
+Minifigs: None
+Theme: Icons
+Set Number: 10294-1
+Year: 2021
+==================================================
+Name: Porsche 911
+Pieces: 1458
+Minifigs: None
+Theme: Icons
+Set Number: 10295-1
+Year: 2021
+==================================================
+Name: Mickey Mouse's Propeller Plane
+Pieces: 59
+Minifigs: 1
+Theme: Disney
+Set Number: 10772-1
+Year: 2021
+==================================================
+Name: Minnie Mouse's Ice Cream Shop
+Pieces: 100
+Minifigs: 2
+Theme: Disney
+Set Number: 10773-1
+Year: 2021
+==================================================
+Name: Mickey Mouse & Minnie Mouse's Space Rocket
+Pieces: 88
+Minifigs: 2
+Theme: Disney
+Set Number: 10774-1
+Year: 2021
+==================================================
+Name: Mickey Mouse & Donald Duck's Farm
+Pieces: 118
+Minifigs: 2
+Theme: Disney
+Set Number: 10775-1
+Year: 2021
+==================================================
+Name: Mickey & Friends Fire Truck & Station
+Pieces: 144
+Minifigs: 3
+Theme: Disney
+Set Number: 10776-1
+Year: 2021
+==================================================
+Name: T. rex and Triceratops Dinosaur Breakout
+Pieces: 36
+Minifigs: 1
+Theme: Duplo
+Set Number: 10939-1
+Year: 2021
+==================================================
+Name: Spider-Man Headquarters
+Pieces: 36
+Minifigs: 3
+Theme: Duplo
+Set Number: 10940-1
+Year: 2021
+==================================================
+Name: Mickey & Minnie Birthday Train
+Pieces: 22
+Minifigs: 2
+Theme: Duplo
+Set Number: 10941-1
+Year: 2021
+==================================================
+Name: Minnie's House and Cafe
+Pieces: 91
+Minifigs: 2
+Theme: Duplo
+Set Number: 10942-1
+Year: 2021
+==================================================
+Name: Happy Childhood Moments
+Pieces: 227
+Minifigs: 7
+Theme: Duplo
+Set Number: 10943-1
+Year: 2021
+==================================================
+Name: Police Station
+Pieces: 38
+Minifigs: 3
+Theme: Duplo
+Set Number: 10902-1
+Year: 2019
+==================================================
+Name: Fire Station
+Pieces: 76
+Minifigs: 2
+Theme: Duplo
+Set Number: 10903-1
+Year: 2019
+==================================================
+Name: Baby Animals
+Pieces: 9
+Minifigs: None
+Theme: Duplo
+Set Number: 10904-1
+Year: 2019
+==================================================
+Name: Tropical Island
+Pieces: 73
+Minifigs: 3
+Theme: Duplo
+Set Number: 10906-1
+Year: 2019
+==================================================
+Name: World Animals
+Pieces: 121
+Minifigs: 6
+Theme: Duplo
+Set Number: 10907-1
+Year: 2019
+==================================================
+Name: Plane
+Pieces: 12
+Minifigs: 1
+Theme: Duplo
+Set Number: 10908-1
+Year: 2019
+==================================================
+Name: Submarine Adventure
+Pieces: 24
+Minifigs: 2
+Theme: Duplo
+Set Number: 10910-1
+Year: 2019
+==================================================
+Name: Bricks and Ideas
+Pieces: 123
+Minifigs: None
+Theme: Classic
+Set Number: 11001-1
+Year: 2019
+==================================================
+Name: Basic Brick Set 
+Pieces: 300
+Minifigs: None
+Theme: Classic
+Set Number: 11002-1
+Year: 2019
+==================================================
+Name: Bricks and Eyes 
+Pieces: 451
+Minifigs: None
+Theme: Classic
+Set Number: 11003-1
+Year: 2019
+==================================================
+Name: Windows of Creativity
+Pieces: 450
+Minifigs: None
+Theme: Classic
+Set Number: 11004-1
+Year: 2019
+==================================================
+Name: Creative Fun
+Pieces: 900
+Minifigs: None
+Theme: Classic
+Set Number: 11005-1
+Year: 2019
+==================================================
+Name: Star Wars: Build Your Own Adventure Galactic Missions parts
+Pieces: 66
+Minifigs: 1
+Theme: Star Wars
+Set Number: 11920-1
+Year: 2019
+==================================================
+Name: The Book of Bedtime Builds parts
+Pieces: 68
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11922-1
+Year: 2019
+==================================================
+Name: Harry Potter: Build Your Own Adventure parts
+Pieces: 101
+Minifigs: 1
+Theme: Harry Potter
+Set Number: 11923-1
+Year: 2019
+==================================================
+Name: Christmas Ideas parts
+Pieces: 41
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11924-1
+Year: 2019
+==================================================
+Name: Wooden Minifigure parts
+Pieces: 29
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11926-1
+Year: 2019
+==================================================
+Name: San Francisco
+Pieces: 565
+Minifigs: None
+Theme: Architecture
+Set Number: 21043-1
+Year: 2019
+==================================================
+Name: Paris
+Pieces: 649
+Minifigs: None
+Theme: Architecture
+Set Number: 21044-1
+Year: 2019
+==================================================
+Name: Trafalgar Square
+Pieces: 1197
+Minifigs: None
+Theme: Architecture
+Set Number: 21045-1
+Year: 2019
+==================================================
+Name: Empire State Building
+Pieces: 1767
+Minifigs: None
+Theme: Architecture
+Set Number: 21046-1
+Year: 2019
+==================================================
+Name: Burj Khalifa
+Pieces: 333
+Minifigs: None
+Theme: Architecture
+Set Number: 21055-1
+Year: 2019
+==================================================
+Name: Minecraft Steve BigFig with Parrot
+Pieces: 159
+Minifigs: None
+Theme: Minecraft
+Set Number: 21148-1
+Year: 2019
+==================================================
+Name: Minecraft Alex BigFig with Chicken
+Pieces: 160
+Minifigs: None
+Theme: Minecraft
+Set Number: 21149-1
+Year: 2019
+==================================================
+Name: Minecraft Skeleton BigFig with Magma Cube
+Pieces: 142
+Minifigs: None
+Theme: Minecraft
+Set Number: 21150-1
+Year: 2019
+==================================================
+Name: Space Shuttle Mission
+Pieces: 23
+Minifigs: 2
+Theme: Duplo
+Set Number: 10944-1
+Year: 2021
+==================================================
+Name: Garbage Truck and Recycling
+Pieces: 19
+Minifigs: 2
+Theme: Duplo
+Set Number: 10945-1
+Year: 2021
+==================================================
+Name: Family Camping Van Adventure
+Pieces: 30
+Minifigs: 4
+Theme: Duplo
+Set Number: 10946-1
+Year: 2021
+==================================================
+Name: Race Cars
+Pieces: 44
+Minifigs: 2
+Theme: Duplo
+Set Number: 10947-1
+Year: 2021
+==================================================
+Name: Parking Garage and Car Wash
+Pieces: 112
+Minifigs: 4
+Theme: Duplo
+Set Number: 10948-1
+Year: 2021
+==================================================
+Name: Farm Animal Care
+Pieces: 11
+Minifigs: None
+Theme: Duplo
+Set Number: 10949-1
+Year: 2021
+==================================================
+Name: Farm Tractor & Animal Care
+Pieces: 27
+Minifigs: 2
+Theme: Duplo
+Set Number: 10950-1
+Year: 2021
+==================================================
+Name: Horse Stable and Pony Care
+Pieces: 65
+Minifigs: 2
+Theme: Duplo
+Set Number: 10951-1
+Year: 2021
+==================================================
+Name: Barn, Tractor & Farm Animal Care
+Pieces: 97
+Minifigs: 4
+Theme: Duplo
+Set Number: 10952-1
+Year: 2021
+==================================================
+Name: Unicorn
+Pieces: 8
+Minifigs: None
+Theme: Duplo
+Set Number: 10953-1
+Year: 2021
+==================================================
+Name: Number Train - Learn To Count
+Pieces: 23
+Minifigs: 2
+Theme: Duplo
+Set Number: 10954-1
+Year: 2021
+==================================================
+Name: Animal Train
+Pieces: 15
+Minifigs: None
+Theme: Duplo
+Set Number: 10955-1
+Year: 2021
+==================================================
+Name: Amusement Park
+Pieces: 95
+Minifigs: 7
+Theme: Duplo
+Set Number: 10956-1
+Year: 2021
+==================================================
+Name: Fire Helicopter & Police Car
+Pieces: 14
+Minifigs: None
+Theme: Duplo
+Set Number: 10957-1
+Year: 2021
+==================================================
+Name: Creative Birthday Party
+Pieces: 200
+Minifigs: 2
+Theme: Duplo
+Set Number: 10958-1
+Year: 2021
+==================================================
+Name: Airplane & Airport
+Pieces: 28
+Minifigs: 3
+Theme: Duplo
+Set Number: 10961-1
+Year: 2021
+==================================================
+Name: Creative White Bricks
+Pieces: 60
+Minifigs: None
+Theme: Classic
+Set Number: 11012-1
+Year: 2021
+==================================================
+Name: Creative Transparent Bricks
+Pieces: 500
+Minifigs: None
+Theme: Classic
+Set Number: 11013-1
+Year: 2021
+==================================================
+Name: Bricks and Wheels
+Pieces: 653
+Minifigs: None
+Theme: Classic
+Set Number: 11014-1
+Year: 2021
+==================================================
+Name: Around the World
+Pieces: 950
+Minifigs: None
+Theme: Classic
+Set Number: 11015-1
+Year: 2021
+==================================================
+Name: Creative Building Bricks
+Pieces: 1200
+Minifigs: None
+Theme: Classic
+Set Number: 11016-1
+Year: 2021
+==================================================
+Name: Skull
+Pieces: 39
+Minifigs: None
+Theme: Creator
+Set Number: 11944-1
+Year: 2021
+==================================================
+Name: Steam Locomotive
+Pieces: 38
+Minifigs: None
+Theme: Creator
+Set Number: 11945-1
+Year: 2021
+==================================================
+Name: Penguin
+Pieces: 48
+Minifigs: None
+Theme: Creator
+Set Number: 11946-1
+Year: 2021
+==================================================
+Name: Time Machine
+Pieces: 39
+Minifigs: None
+Theme: Creator
+Set Number: 11947-1
+Year: 2021
+==================================================
+Name: Carnivorous Plant
+Pieces: 43
+Minifigs: None
+Theme: Creator
+Set Number: 11948-1
+Year: 2021
+==================================================
+Name: Parrot
+Pieces: 44
+Minifigs: None
+Theme: Creator
+Set Number: 11949-1
+Year: 2021
+==================================================
+Name: Racing Car
+Pieces: 34
+Minifigs: None
+Theme: Creator
+Set Number: 11950-1
+Year: 2021
+==================================================
+Name: Orangutan
+Pieces: 51
+Minifigs: None
+Theme: Creator
+Set Number: 11951-1
+Year: 2021
+==================================================
+Name: Wind Energy
+Pieces: None
+Minifigs: None
+Theme: Creator
+Set Number: 11952-1
+Year: 2021
+==================================================
+Name: Gecko
+Pieces: None
+Minifigs: None
+Theme: Creator
+Set Number: 11953-1
+Year: 2021
+==================================================
+Name: UFO
+Pieces: None
+Minifigs: None
+Theme: Creator
+Set Number: 11954-1
+Year: 2021
+==================================================
+Name: Lion
+Pieces: None
+Minifigs: None
+Theme: Creator
+Set Number: 11955-1
+Year: 2021
+==================================================
+Name: Super Nature parts
+Pieces: 51
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11956-1
+Year: 2021
+==================================================
+Name: Magical Ideas parts
+Pieces: 32
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11957-1
+Year: 2021
+==================================================
+Name: Taj Mahal
+Pieces: 2022
+Minifigs: None
+Theme: Architecture
+Set Number: 21056-1
+Year: 2021
+==================================================
+Name: The Coral Reef
+Pieces: 92
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21164-1
+Year: 2021
+==================================================
+Name: The Bee Farm
+Pieces: 238
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21165-1
+Year: 2021
+==================================================
+Name: The 'Abandoned' Mine
+Pieces: 248
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21166-1
+Year: 2021
+==================================================
+Name: The Trading Post
+Pieces: 201
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21167-1
+Year: 2021
+==================================================
+Name: The Warped Forest
+Pieces: 287
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21168-1
+Year: 2021
+==================================================
+Name: The First Adventure
+Pieces: 542
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21169-1
+Year: 2021
+==================================================
+Name: The Pig House
+Pieces: 490
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21170-1
+Year: 2021
+==================================================
+Name: The Horse Stable
+Pieces: 241
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21171-1
+Year: 2021
+==================================================
+Name: The Ruined Portal
+Pieces: 316
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21172-1
+Year: 2021
+==================================================
+Name: The Sky Tower
+Pieces: 565
+Minifigs: 1
+Theme: Minecraft
+Set Number: 21173-1
+Year: 2021
+==================================================
+Name: The Modern Treehouse
+Pieces: 909
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21174-1
+Year: 2021
+==================================================
+Name: {?}
+Pieces: None
+Minifigs: None
+Theme: Minecraft
+Set Number: 21175-1
+Year: 2021
+==================================================
+Name: The Jungle Abomination
+Pieces: 489
+Minifigs: 5
+Theme: Minecraft
+Set Number: 21176-1
+Year: 2021
+==================================================
+Name: Art Project - Create Together
+Pieces: 4138
+Minifigs: None
+Theme: Art
+Set Number: 21226-1
+Year: 2021
+==================================================
+Name: Truck & Tracked Excavator
+Pieces: 20
+Minifigs: 2
+Theme: Duplo
+Set Number: 10931-1
+Year: 2020
+==================================================
+Name: Wrecking Ball Demolition
+Pieces: 56
+Minifigs: 3
+Theme: Duplo
+Set Number: 10932-1
+Year: 2020
+==================================================
+Name: Tower Crane & Construction
+Pieces: 123
+Minifigs: 5
+Theme: Duplo
+Set Number: 10933-1
+Year: 2020
+==================================================
+Name: Creative Animals
+Pieces: 175
+Minifigs: None
+Theme: Duplo
+Set Number: 10934-1
+Year: 2020
+==================================================
+Name: Creative Blue Bricks
+Pieces: 52
+Minifigs: None
+Theme: Classic
+Set Number: 11006-1
+Year: 2020
+==================================================
+Name: Creative Green Bricks
+Pieces: 60
+Minifigs: None
+Theme: Classic
+Set Number: 11007-1
+Year: 2020
+==================================================
+Name: Bricks and Houses
+Pieces: 270
+Minifigs: None
+Theme: Classic
+Set Number: 11008-1
+Year: 2020
+==================================================
+Name: Bricks and Lights
+Pieces: 441
+Minifigs: None
+Theme: Classic
+Set Number: 11009-1
+Year: 2020
+==================================================
+Name: White Baseplate
+Pieces: 1
+Minifigs: None
+Theme: Classic
+Set Number: 11010-1
+Year: 2020
+==================================================
+Name: Bricks and Animals
+Pieces: 1500
+Minifigs: None
+Theme: Classic
+Set Number: 11011-1
+Year: 2020
+==================================================
+Name: Bricks Bricks Plates
+Pieces: 1504
+Minifigs: None
+Theme: Classic
+Set Number: 11717-1
+Year: 2020
+==================================================
+Name: The LEGO Games Book parts
+Pieces: None
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11929-1
+Year: 2020
+==================================================
+Name: Halloween Ideas parts
+Pieces: None
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11930-1
+Year: 2020
+==================================================
+Name: Cute Ideas parts
+Pieces: 35
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11931-1
+Year: 2020
+==================================================
+Name: Epic History parts
+Pieces: 53
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11933-1
+Year: 2020
+==================================================
+Name: Jurassic World Build Your Own Adventure parts
+Pieces: 63
+Minifigs: 1
+Theme: Jurassic World
+Set Number: 11934-1
+Year: 2020
+==================================================
+Name: City Build Your Own Adventure: Police Chase parts
+Pieces: None
+Minifigs: None
+Theme: City
+Set Number: 11936-1
+Year: 2020
+==================================================
+Name: Robot
+Pieces: 45
+Minifigs: None
+Theme: Creator
+Set Number: 11938-1
+Year: 2020
+==================================================
+Name: Octopus
+Pieces: 63
+Minifigs: None
+Theme: Creator
+Set Number: 11939-1
+Year: 2020
+==================================================
+Name: Castle
+Pieces: 52
+Minifigs: None
+Theme: Creator
+Set Number: 11940-1
+Year: 2020
+==================================================
+Name: Frog
+Pieces: 56
+Minifigs: None
+Theme: Creator
+Set Number: 11941-1
+Year: 2020
+==================================================
+Name: Lunar Lander
+Pieces: 45
+Minifigs: None
+Theme: Creator
+Set Number: 11942-1
+Year: 2020
+==================================================
+Name: Ant
+Pieces: None
+Minifigs: None
+Theme: Creator
+Set Number: 11943-1
+Year: 2020
+==================================================
+Name: Tokyo
+Pieces: 547
+Minifigs: None
+Theme: Architecture
+Set Number: 21051-1
+Year: 2020
+==================================================
+Name: Dubai
+Pieces: 740
+Minifigs: None
+Theme: Architecture
+Set Number: 21052-1
+Year: 2020
+==================================================
+Name: Medieval Blacksmith
+Pieces: 2164
+Minifigs: 4
+Theme: Ideas
+Set Number: 21325-1
+Year: 2021
+==================================================
+Name: Winnie the Pooh
+Pieces: 1265
+Minifigs: 5
+Theme: Ideas
+Set Number: 21326-1
+Year: 2021
+==================================================
+Name: Typewriter
+Pieces: 2079
+Minifigs: None
+Theme: Ideas
+Set Number: 21327-1
+Year: 2021
+==================================================
+Name: Seinfeld
+Pieces: 1326
+Minifigs: 5
+Theme: Ideas
+Set Number: 21328-1
+Year: 2021
+==================================================
+Name: Fender Stratocaster
+Pieces: 1074
+Minifigs: None
+Theme: Ideas
+Set Number: 21329-1
+Year: 2021
+==================================================
+Name: Home Alone
+Pieces: 3955
+Minifigs: 5
+Theme: Ideas
+Set Number: 21330-1
+Year: 2021
+==================================================
+Name: The Nether Duel
+Pieces: 28
+Minifigs: 2
+Theme: Minecraft
+Set Number: 30331-1
+Year: 2021
+==================================================
+Name: My First Space Rocket
+Pieces: 8
+Minifigs: None
+Theme: Duplo
+Set Number: 30332-1
+Year: 2021
+==================================================
+Name: McLaren Elva
+Pieces: 85
+Minifigs: None
+Theme: Speed Champions
+Set Number: 30343-1
+Year: 2021
+==================================================
+Name: Mini Monkey King Warrior Mech
+Pieces: 65
+Minifigs: None
+Theme: Monkie Kid
+Set Number: 30344-1
+Year: 2021
+==================================================
+Name: Bob Minion with Robot Arms
+Pieces: 75
+Minifigs: 1
+Theme: Minions: The Rise of Gru
+Set Number: 30387-1
+Year: 2021
+==================================================
+Name: Imperial Shuttle
+Pieces: 85
+Minifigs: None
+Theme: Star Wars
+Set Number: 30388-1
+Year: 2021
+==================================================
+Name: Fuzzy & Mushroom Platform
+Pieces: 39
+Minifigs: 1
+Theme: Super Mario
+Set Number: 30389-1
+Year: 2021
+==================================================
+Name: Rapunzel's Boat
+Pieces: 32
+Minifigs: 1
+Theme: Disney
+Set Number: 30391-1
+Year: 2021
+==================================================
+Name: Hermione's Study Desk
+Pieces: 31
+Minifigs: 1
+Theme: Harry Potter
+Set Number: 30392-1
+Year: 2021
+==================================================
+Name: Flower Cart
+Pieces: 55
+Minifigs: 2
+Theme: Friends
+Set Number: 30413-1
+Year: 2021
+==================================================
+Name: Emma's Magical Box
+Pieces: 67
+Minifigs: 1
+Theme: Friends
+Set Number: 30414-1
+Year: 2021
+==================================================
+Name: Shang-Chi and The Great Protector
+Pieces: 55
+Minifigs: 1
+Theme: Marvel Super Heroes
+Set Number: 30454-1
+Year: 2021
+==================================================
+Name: Helicopter
+Pieces: 70
+Minifigs: None
+Theme: Technic
+Set Number: 30465-1
+Year: 2021
+==================================================
+Name: Lloyd's Quad Bike
+Pieces: 39
+Minifigs: 1
+Theme: Ninjago
+Set Number: 30539-1
+Year: 2021
+==================================================
+Name: Photo Holder Cube
+Pieces: 109
+Minifigs: None
+Theme: Dots
+Set Number: 30557-1
+Year: 2021
+==================================================
+Name: Raya and the Ongi's Heart Lands Adventure
+Pieces: 49
+Minifigs: 1
+Theme: Disney
+Set Number: 30558-1
+Year: 2021
+==================================================
+Name: Build Your Own Snail with Superpowers - Make It Yours
+Pieces: 36
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 30563-1
+Year: 2021
+==================================================
+Name: Build Your Own Monster or Vehicles – Make It Yours
+Pieces: 60
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 30564-1
+Year: 2021
+==================================================
+Name: Birthday Clown
+Pieces: 59
+Minifigs: None
+Theme: Creator
+Set Number: 30565-1
+Year: 2021
+==================================================
+Name: The End Battle
+Pieces: 222
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21151-1
+Year: 2019
+==================================================
+Name: The Pirate Ship Adventure
+Pieces: 386
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21152-1
+Year: 2019
+==================================================
+Name: The Wool Farm
+Pieces: 260
+Minifigs: 1
+Theme: Minecraft
+Set Number: 21153-1
+Year: 2019
+==================================================
+Name: The Blaze Bridge
+Pieces: 372
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21154-1
+Year: 2019
+==================================================
+Name: The Creeper Mine
+Pieces: 834
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21155-1
+Year: 2019
+==================================================
+Name: The Flintstones
+Pieces: 748
+Minifigs: 4
+Theme: Ideas
+Set Number: 21316-1
+Year: 2019
+==================================================
+Name: Steamboat Willie
+Pieces: 751
+Minifigs: 2
+Theme: Ideas
+Set Number: 21317-1
+Year: 2019
+==================================================
+Name: Tree House
+Pieces: 3036
+Minifigs: 4
+Theme: Ideas
+Set Number: 21318-1
+Year: 2019
+==================================================
+Name: Central Perk
+Pieces: 1070
+Minifigs: 7
+Theme: Ideas
+Set Number: 21319-1
+Year: 2019
+==================================================
+Name: Dinosaur Fossils
+Pieces: 910
+Minifigs: 2
+Theme: Ideas
+Set Number: 21320-1
+Year: 2019
+==================================================
+Name: My First Duck
+Pieces: 6
+Minifigs: None
+Theme: Duplo
+Set Number: 30327-1
+Year: 2019
+==================================================
+Name: Town Rescue - {Random Bag}
+Pieces: None
+Minifigs: None
+Theme: Duplo
+Set Number: 30328-0
+Year: 2019
+==================================================
+Name: Town Rescue - Bird
+Pieces: None
+Minifigs: None
+Theme: Duplo
+Set Number: 30328-2
+Year: 2019
+==================================================
+Name: Town Rescue - Fireman
+Pieces: None
+Minifigs: None
+Theme: Duplo
+Set Number: 30328-3
+Year: 2019
+==================================================
+Name: Town Rescue - Cat
+Pieces: None
+Minifigs: None
+Theme: Duplo
+Set Number: 30328-4
+Year: 2019
+==================================================
+Name: Town Rescue - Policewoman
+Pieces: None
+Minifigs: None
+Theme: Duplo
+Set Number: 30328-5
+Year: 2019
+==================================================
+Name: Town Rescue - Dog
+Pieces: None
+Minifigs: None
+Theme: Duplo
+Set Number: 30328-6
+Year: 2019
+==================================================
+Name: Emmet's 'Piece' Offering
+Pieces: 44
+Minifigs: 1
+Theme: The LEGO Movie 2
+Set Number: 30340-1
+Year: 2019
+==================================================
+Name: Fire ATV
+Pieces: 39
+Minifigs: 1
+Theme: City
+Set Number: 30361-1
+Year: 2019
+==================================================
+Name: Sky Police Jetpack
+Pieces: 33
+Minifigs: 2
+Theme: City
+Set Number: 30362-1
+Year: 2019
+==================================================
+Name: Race Boat
+Pieces: 34
+Minifigs: 1
+Theme: City
+Set Number: 30363-1
+Year: 2019
+==================================================
+Name: Popcorn Cart
+Pieces: 43
+Minifigs: 1
+Theme: City
+Set Number: 30364-1
+Year: 2019
+==================================================
+Name: Space Satellite
+Pieces: 36
+Minifigs: 1
+Theme: City
+Set Number: 30365-1
+Year: 2019
+==================================================
+Name: Naboo Starfighter
+Pieces: 48
+Minifigs: None
+Theme: Star Wars
+Set Number: 30383-1
+Year: 2019
+==================================================
+Name: Snowspeeder
+Pieces: 49
+Minifigs: None
+Theme: Star Wars
+Set Number: 30384-1
+Year: 2019
+==================================================
+Name: Fire Helicopter
+Pieces: 35
+Minifigs: 1
+Theme: City
+Set Number: 30566-1
+Year: 2021
+==================================================
+Name: Police Water Scooter
+Pieces: 33
+Minifigs: 1
+Theme: City
+Set Number: 30567-1
+Year: 2021
+==================================================
+Name: Skater
+Pieces: 40
+Minifigs: 1
+Theme: City
+Set Number: 30568-1
+Year: 2021
+==================================================
+Name: LEGO Stand
+Pieces: 47
+Minifigs: 1
+Theme: City
+Set Number: 30569-1
+Year: 2021
+==================================================
+Name: Wildlife Rescue Hovercraft
+Pieces: 35
+Minifigs: 1
+Theme: City
+Set Number: 30570-1
+Year: 2021
+==================================================
+Name: Super Muscle Car
+Pieces: 63
+Minifigs: None
+Theme: Creator
+Set Number: 30577-1
+Year: 2021
+==================================================
+Name: German Shepherd
+Pieces: 76
+Minifigs: None
+Theme: Creator
+Set Number: 30578-1
+Year: 2021
+==================================================
+Name: Easter Chick Egg
+Pieces: 52
+Minifigs: None
+Theme: Creator
+Set Number: 30579-1
+Year: 2021
+==================================================
+Name: Santa Claus
+Pieces: 69
+Minifigs: None
+Theme: Creator
+Set Number: 30580-1
+Year: 2021
+==================================================
+Name: Titanium Mini Mech
+Pieces: 77
+Minifigs: None
+Theme: Ninjago
+Set Number: 30591-1
+Year: 2021
+==================================================
+Name: Cyber Drone
+Pieces: 113
+Minifigs: 1
+Theme: Creator
+Set Number: 31111-1
+Year: 2021
+==================================================
+Name: Wild Lion
+Pieces: 224
+Minifigs: None
+Theme: Creator
+Set Number: 31112-1
+Year: 2021
+==================================================
+Name: Race Car Transporter
+Pieces: 328
+Minifigs: None
+Theme: Creator
+Set Number: 31113-1
+Year: 2021
+==================================================
+Name: Superbike
+Pieces: 236
+Minifigs: None
+Theme: Creator
+Set Number: 31114-1
+Year: 2021
+==================================================
+Name: Space Mining Mech
+Pieces: 327
+Minifigs: None
+Theme: Creator
+Set Number: 31115-1
+Year: 2021
+==================================================
+Name: Safari Wildlife Tree House
+Pieces: 397
+Minifigs: 2
+Theme: Creator
+Set Number: 31116-1
+Year: 2021
+==================================================
+Name: Space Shuttle Adventure
+Pieces: 486
+Minifigs: 1
+Theme: Creator
+Set Number: 31117-1
+Year: 2021
+==================================================
+Name: Surfer Beach House
+Pieces: 564
+Minifigs: 2
+Theme: Creator
+Set Number: 31118-1
+Year: 2021
+==================================================
+Name: Ferris Wheel
+Pieces: 1002
+Minifigs: 5
+Theme: Creator
+Set Number: 31119-1
+Year: 2021
+==================================================
+Name: Medieval Castle
+Pieces: 1426
+Minifigs: 4
+Theme: Creator
+Set Number: 31120-1
+Year: 2021
+==================================================
+Name: Crocodile
+Pieces: 454
+Minifigs: None
+Theme: Creator
+Set Number: 31121-1
+Year: 2021
+==================================================
+Name: Fish Tank
+Pieces: 352
+Minifigs: None
+Theme: Creator
+Set Number: 31122-1
+Year: 2021
+==================================================
+Name: Harry Potter Hogwarts Crests
+Pieces: 4249
+Minifigs: None
+Theme: Art
+Set Number: 31201-1
+Year: 2021
+==================================================
+Name: Disney's Mickey Mouse
+Pieces: 2658
+Minifigs: None
+Theme: Art
+Set Number: 31202-1
+Year: 2021
+==================================================
+Name: World Map
+Pieces: 11695
+Minifigs: None
+Theme: Art
+Set Number: 31203-1
+Year: 2021
+==================================================
+Name: Downtown Diner
+Pieces: 2480
+Minifigs: 6
+Theme: Creator Expert
+Set Number: 10260-1
+Year: 2018
+==================================================
+Name: Roller Coaster
+Pieces: 4124
+Minifigs: 11
+Theme: Creator Expert
+Set Number: 10261-1
+Year: 2018
+==================================================
+Name: James Bond Aston Martin DB5
+Pieces: 1290
+Minifigs: None
+Theme: Creator Expert
+Set Number: 10262-1
+Year: 2018
+==================================================
+Name: Winter Village Fire Station
+Pieces: 1166
+Minifigs: 8
+Theme: Creator Expert
+Set Number: 10263-1
+Year: 2018
+==================================================
+Name: Vestas Wind Turbine
+Pieces: 826
+Minifigs: 3
+Theme: Creator Expert
+Set Number: 10268-1
+Year: 2018
+==================================================
+Name: Rainbow Fun
+Pieces: 85
+Minifigs: None
+Theme: Classic
+Set Number: 10401-1
+Year: 2018
+==================================================
+Name: Fun Future
+Pieces: 186
+Minifigs: 1
+Theme: Classic
+Set Number: 10402-1
+Year: 2018
+==================================================
+Name: World Fun
+Pieces: 295
+Minifigs: 2
+Theme: Classic
+Set Number: 10403-1
+Year: 2018
+==================================================
+Name: Ocean's Bottom
+Pieces: 579
+Minifigs: 2
+Theme: Classic
+Set Number: 10404-1
+Year: 2018
+==================================================
+Name: Mission to Mars
+Pieces: 871
+Minifigs: 3
+Theme: Classic
+Set Number: 10405-1
+Year: 2018
+==================================================
+Name: Bricks and Gears
+Pieces: 244
+Minifigs: None
+Theme: Classic
+Set Number: 10712-1
+Year: 2018
+==================================================
+Name: Creative Suitcase
+Pieces: 213
+Minifigs: None
+Theme: Classic
+Set Number: 10713-1
+Year: 2018
+==================================================
+Name: Blue Baseplate
+Pieces: 1
+Minifigs: None
+Theme: Classic
+Set Number: 10714-1
+Year: 2018
+==================================================
+Name: Bricks on a Roll
+Pieces: 442
+Minifigs: None
+Theme: Classic
+Set Number: 10715-1
+Year: 2018
+==================================================
+Name: Bricks Bricks Bricks
+Pieces: 1500
+Minifigs: None
+Theme: Classic
+Set Number: 10717-1
+Year: 2018
+==================================================
+Name: Emma's Pet Party
+Pieces: 67
+Minifigs: 1
+Theme: Juniors
+Set Number: 10748-1
+Year: 2018
+==================================================
+Name: Mia's Organic Food Market
+Pieces: 115
+Minifigs: 1
+Theme: Juniors
+Set Number: 10749-1
+Year: 2018
+==================================================
+Name: Road Repair Truck
+Pieces: 73
+Minifigs: 1
+Theme: Juniors
+Set Number: 10750-1
+Year: 2018
+==================================================
+Name: Mountain Police Chase
+Pieces: 115
+Minifigs: 2
+Theme: Juniors
+Set Number: 10751-1
+Year: 2018
+==================================================
+Name: The Joker Batcave Attack
+Pieces: 151
+Minifigs: 3
+Theme: Juniors
+Set Number: 10753-1
+Year: 2018
+==================================================
+Name: Spider-Man vs. Scorpion Street Showdown
+Pieces: 125
+Minifigs: 2
+Theme: Juniors
+Set Number: 10754-1
+Year: 2018
+==================================================
+Name: Zane's Ninja Boat Pursuit
+Pieces: 131
+Minifigs: 2
+Theme: Juniors
+Set Number: 10755-1
+Year: 2018
+==================================================
+Name: Pteranodon Escape
+Pieces: 84
+Minifigs: 2
+Theme: Juniors
+Set Number: 10756-1
+Year: 2018
+==================================================
+Name: Raptor Rescue Truck
+Pieces: 85
+Minifigs: 2
+Theme: Juniors
+Set Number: 10757-1
+Year: 2018
+==================================================
+Name: T. rex Breakout
+Pieces: 150
+Minifigs: 3
+Theme: Juniors
+Set Number: 10758-1
+Year: 2018
+==================================================
+Name: Assembly Square
+Pieces: 4002
+Minifigs: 9
+Theme: Creator Expert
+Set Number: 10255-1
+Year: 2017
+==================================================
+Name: Taj Mahal
+Pieces: 5923
+Minifigs: None
+Theme: Creator Expert
+Set Number: 10256-1
+Year: 2017
+==================================================
+Name: Carousel
+Pieces: 2670
+Minifigs: 7
+Theme: Creator Expert
+Set Number: 10257-1
+Year: 2017
+==================================================
+Name: London Bus
+Pieces: 1686
+Minifigs: None
+Theme: Creator Expert
+Set Number: 10258-1
+Year: 2017
+==================================================
+Name: Winter Village Station
+Pieces: 902
+Minifigs: 5
+Theme: Creator Expert
+Set Number: 10259-1
+Year: 2017
+==================================================
+Name: Creative Builder Box
+Pieces: 502
+Minifigs: None
+Theme: Classic
+Set Number: 10703-1
+Year: 2017
+==================================================
+Name: Creative Box
+Pieces: 900
+Minifigs: None
+Theme: Classic
+Set Number: 10704-1
+Year: 2017
+==================================================
+Name: Blue Creative Box
+Pieces: 78
+Minifigs: None
+Theme: Classic
+Set Number: 10706-1
+Year: 2017
+==================================================
+Name: Red Creative Box
+Pieces: 55
+Minifigs: None
+Theme: Classic
+Set Number: 10707-1
+Year: 2017
+==================================================
+Name: Green Creative Box
+Pieces: 66
+Minifigs: None
+Theme: Classic
+Set Number: 10708-1
+Year: 2017
+==================================================
+Name: Orange Creative Box
+Pieces: 60
+Minifigs: None
+Theme: Classic
+Set Number: 10709-1
+Year: 2017
+==================================================
+Name: Lightning McQueen Speed Launcher
+Pieces: 47
+Minifigs: 1
+Theme: Juniors
+Set Number: 10730-1
+Year: 2017
+==================================================
+Name: Cruz Ramirez Race Simulator
+Pieces: 59
+Minifigs: 1
+Theme: Juniors
+Set Number: 10731-1
+Year: 2017
+==================================================
+Name: Guido and Luigi's Pit Stop
+Pieces: 75
+Minifigs: 2
+Theme: Juniors
+Set Number: 10732-1
+Year: 2017
+==================================================
+Name: Mater's Junkyard
+Pieces: 62
+Minifigs: 1
+Theme: Juniors
+Set Number: 10733-1
+Year: 2017
+==================================================
+Name: Demolition Site
+Pieces: 175
+Minifigs: 3
+Theme: Juniors
+Set Number: 10734-1
+Year: 2017
+==================================================
+Name: Police Truck Chase
+Pieces: 90
+Minifigs: 2
+Theme: Juniors
+Set Number: 10735-1
+Year: 2017
+==================================================
+Name: Anna and Elsa's Frozen Playground
+Pieces: 94
+Minifigs: 2
+Theme: Juniors
+Set Number: 10736-1
+Year: 2017
+==================================================
+Name: Batman vs. Mr. Freeze
+Pieces: 63
+Minifigs: 2
+Theme: Juniors
+Set Number: 10737-1
+Year: 2017
+==================================================
+Name: Snow White's Forest Cottage
+Pieces: 67
+Minifigs: 1
+Theme: Juniors
+Set Number: 10738-1
+Year: 2017
+==================================================
+Name: Shark Attack
+Pieces: 108
+Minifigs: 3
+Theme: Juniors
+Set Number: 10739-1
+Year: 2017
+==================================================
+Name: Fire Patrol Suitcase
+Pieces: 110
+Minifigs: 2
+Theme: Juniors
+Set Number: 10740-1
+Year: 2017
+==================================================
+Name: Willy's Butte Speed Training
+Pieces: 95
+Minifigs: 2
+Theme: Juniors
+Set Number: 10742-1
+Year: 2017
+==================================================
+Name: Smokey's Garage
+Pieces: 116
+Minifigs: 3
+Theme: Juniors
+Set Number: 10743-1
+Year: 2017
+==================================================
+Name: Thunder Hollow Crazy 8 Race
+Pieces: 191
+Minifigs: 4
+Theme: Juniors
+Set Number: 10744-1
+Year: 2017
+==================================================
+Name: Brick Bank
+Pieces: 2380
+Minifigs: 5
+Theme: Creator Expert
+Set Number: 10251-1
+Year: 2016
+==================================================
+Name: Volkswagen Beetle
+Pieces: 1167
+Minifigs: None
+Theme: Creator Expert
+Set Number: 10252-1
+Year: 2016
+==================================================
+Name: Big Ben
+Pieces: 4163
+Minifigs: None
+Theme: Creator Expert
+Set Number: 10253-1
+Year: 2016
+==================================================
+Name: Winter Holiday Train
+Pieces: 734
+Minifigs: 5
+Theme: Creator Expert
+Set Number: 10254-1
+Year: 2016
+==================================================
+Name: XL Creative Brick Box
+Pieces: 1600
+Minifigs: None
+Theme: Classic
+Set Number: 10654-1
+Year: 2016
+==================================================
+Name: Creative Building Set
+Pieces: 583
+Minifigs: None
+Theme: Classic
+Set Number: 10702-1
+Year: 2016
+==================================================
+Name: Creative Building Basket
+Pieces: 1000
+Minifigs: None
+Theme: Classic
+Set Number: 10705-1
+Year: 2016
+==================================================
+Name: Police Helicopter Chase
+Pieces: 63
+Minifigs: 2
+Theme: Juniors
+Set Number: 10720-1
+Year: 2016
+==================================================
+Name: Iron Man vs. Loki
+Pieces: 66
+Minifigs: 2
+Theme: Juniors
+Set Number: 10721-1
+Year: 2016
+==================================================
+Name: Snake Showdown
+Pieces: 92
+Minifigs: 2
+Theme: Juniors
+Set Number: 10722-1
+Year: 2016
+==================================================
+Name: Ariel's Dolphin Carriage
+Pieces: 70
+Minifigs: 1
+Theme: Juniors
+Set Number: 10723-1
+Year: 2016
+==================================================
+Name: Batman & Superman vs. Lex Luthor
+Pieces: 164
+Minifigs: 3
+Theme: Juniors
+Set Number: 10724-1
+Year: 2016
+==================================================
+Name: Lost Temple
+Pieces: 172
+Minifigs: 3
+Theme: Juniors
+Set Number: 10725-1
+Year: 2016
+==================================================
+Name: Stephanie's Horse Carriage
+Pieces: 58
+Minifigs: 1
+Theme: Juniors
+Set Number: 10726-1
+Year: 2016
+==================================================
+Name: Emma's Ice Cream Truck
+Pieces: 136
+Minifigs: 2
+Theme: Juniors
+Set Number: 10727-1
+Year: 2016
+==================================================
+Name: Mia's Vet Clinic
+Pieces: 173
+Minifigs: 2
+Theme: Juniors
+Set Number: 10728-1
+Year: 2016
+==================================================
+Name: Cinderella's Carriage
+Pieces: 116
+Minifigs: 2
+Theme: Juniors
+Set Number: 10729-1
+Year: 2016
+==================================================
+Name: Baby Animals
+Pieces: 13
+Minifigs: None
+Theme: Duplo
+Set Number: 10801-1
+Year: 2016
+==================================================
+Name: Savanna
+Pieces: 18
+Minifigs: 1
+Theme: Duplo
+Set Number: 10802-1
+Year: 2016
+==================================================
+Name: Arctic
+Pieces: 40
+Minifigs: 2
+Theme: Duplo
+Set Number: 10803-1
+Year: 2016
+==================================================
+Name: Jungle
+Pieces: 86
+Minifigs: 2
+Theme: Duplo
+Set Number: 10804-1
+Year: 2016
+==================================================
+Name: Around the World
+Pieces: 163
+Minifigs: 5
+Theme: Duplo
+Set Number: 10805-1
+Year: 2016
+==================================================
+Name: Horses
+Pieces: 20
+Minifigs: 1
+Theme: Duplo
+Set Number: 10806-1
+Year: 2016
+==================================================
+Name: Horse Trailer
+Pieces: 15
+Minifigs: 2
+Theme: Duplo
+Set Number: 10807-1
+Year: 2016
+==================================================
+Name: Little Plane
+Pieces: 13
+Minifigs: 1
+Theme: Duplo
+Set Number: 10808-1
+Year: 2016
+==================================================
+Name: Detective's Office
+Pieces: 2262
+Minifigs: 6
+Theme: Creator Expert
+Set Number: 10246-1
+Year: 2015
+==================================================
+Name: Ferris Wheel
+Pieces: 2464
+Minifigs: 10
+Theme: Creator Expert
+Set Number: 10247-1
+Year: 2015
+==================================================
+Name: Ferrari F40
+Pieces: 1158
+Minifigs: None
+Theme: Creator Expert
+Set Number: 10248-1
+Year: 2015
+==================================================
+Name: Winter Toy Shop
+Pieces: 898
+Minifigs: 8
+Theme: Creator Expert
+Set Number: 10249-1
+Year: 2015
+==================================================
+Name: Forest: Ducks
+Pieces: 13
+Minifigs: 1
+Theme: Duplo
+Set Number: 10581-1
+Year: 2015
+==================================================
+Name: Forest: Animals
+Pieces: 39
+Minifigs: 2
+Theme: Duplo
+Set Number: 10582-1
+Year: 2015
+==================================================
+Name: Forest: Fishing Trip
+Pieces: 32
+Minifigs: 2
+Theme: Duplo
+Set Number: 10583-1
+Year: 2015
+==================================================
+Name: Forest: Park
+Pieces: 105
+Minifigs: 3
+Theme: Duplo
+Set Number: 10584-1
+Year: 2015
+==================================================
+Name: Mom and Baby
+Pieces: 13
+Minifigs: 2
+Theme: Duplo
+Set Number: 10585-1
+Year: 2015
+==================================================
+Name: Ice Cream Truck
+Pieces: 11
+Minifigs: 2
+Theme: Duplo
+Set Number: 10586-1
+Year: 2015
+==================================================
+Name: Café
+Pieces: 52
+Minifigs: 3
+Theme: Duplo
+Set Number: 10587-1
+Year: 2015
+==================================================
+Name: Rally Car
+Pieces: 13
+Minifigs: 1
+Theme: Duplo
+Set Number: 10589-1
+Year: 2015
+==================================================
+Name: Airport
+Pieces: 29
+Minifigs: 3
+Theme: Duplo
+Set Number: 10590-1
+Year: 2015
+==================================================
+Name: Fire Boat
+Pieces: 19
+Minifigs: 1
+Theme: Duplo
+Set Number: 10591-1
+Year: 2015
+==================================================
+Name: Fire Truck
+Pieces: 26
+Minifigs: 1
+Theme: Duplo
+Set Number: 10592-1
+Year: 2015
+==================================================
+Name: Fire Station
+Pieces: 105
+Minifigs: 2
+Theme: Duplo
+Set Number: 10593-1
+Year: 2015
+==================================================
+Name: Sofia's Royal Stable
+Pieces: 38
+Minifigs: 1
+Theme: Duplo
+Set Number: 10594-1
+Year: 2015
+==================================================
+Name: Sofia's Royal Castle
+Pieces: 87
+Minifigs: 2
+Theme: Duplo
+Set Number: 10595-1
+Year: 2015
+==================================================
+Name: Disney Princess Collection
+Pieces: 63
+Minifigs: 3
+Theme: Duplo
+Set Number: 10596-1
+Year: 2015
+==================================================
+Name: Birthday Parade
+Pieces: 24
+Minifigs: 2
+Theme: Duplo
+Set Number: 10597-1
+Year: 2015
+==================================================
+Name: Batman Adventure
+Pieces: 47
+Minifigs: 3
+Theme: Duplo
+Set Number: 10599-1
+Year: 2015
+==================================================
+Name: Classic Race
+Pieces: 29
+Minifigs: 2
+Theme: Duplo
+Set Number: 10600-1
+Year: 2015
+==================================================
+Name: Delivery Vehicle
+Pieces: 19
+Minifigs: 1
+Theme: Duplo
+Set Number: 10601-1
+Year: 2015
+==================================================
+Name: Camping
+Pieces: 38
+Minifigs: 3
+Theme: Duplo
+Set Number: 10602-1
+Year: 2015
+==================================================
+Name: My First Bus
+Pieces: 17
+Minifigs: 1
+Theme: Duplo
+Set Number: 10603-1
+Year: 2015
+==================================================
+Name: Elastigirl's Rooftop Pursuit
+Pieces: 95
+Minifigs: 2
+Theme: Juniors
+Set Number: 10759-1
+Year: 2018
+==================================================
+Name: Underminer Bank Heist
+Pieces: 149
+Minifigs: 3
+Theme: Juniors
+Set Number: 10760-1
+Year: 2018
+==================================================
+Name: The Great Home Escape
+Pieces: 178
+Minifigs: 4
+Theme: Juniors
+Set Number: 10761-1
+Year: 2018
+==================================================
+Name: Belle's Story Time
+Pieces: 87
+Minifigs: 4
+Theme: Juniors
+Set Number: 10762-1
+Year: 2018
+==================================================
+Name: Stephanie's Lakeside House
+Pieces: 215
+Minifigs: 3
+Theme: Juniors
+Set Number: 10763-1
+Year: 2018
+==================================================
+Name: City Central Airport
+Pieces: 376
+Minifigs: 5
+Theme: Juniors
+Set Number: 10764-1
+Year: 2018
+==================================================
+Name: Ariel's Underwater Concert
+Pieces: 92
+Minifigs: 1
+Theme: Juniors
+Set Number: 10765-1
+Year: 2018
+==================================================
+Name: My First Puzzle Pets
+Pieces: 18
+Minifigs: None
+Theme: Duplo
+Set Number: 10858-1
+Year: 2018
+==================================================
+Name: My First Ladybird
+Pieces: 6
+Minifigs: None
+Theme: Duplo
+Set Number: 10859-1
+Year: 2018
+==================================================
+Name: My First Race Car
+Pieces: 6
+Minifigs: None
+Theme: Duplo
+Set Number: 10860-1
+Year: 2018
+==================================================
+Name: My First Emotions
+Pieces: 28
+Minifigs: None
+Theme: Duplo
+Set Number: 10861-1
+Year: 2018
+==================================================
+Name: My First Celebration
+Pieces: 41
+Minifigs: None
+Theme: Duplo
+Set Number: 10862-1
+Year: 2018
+==================================================
+Name: My First Animal Brick Box
+Pieces: 34
+Minifigs: None
+Theme: Duplo
+Set Number: 10863-1
+Year: 2018
+==================================================
+Name: Large Playground Brick Box
+Pieces: 71
+Minifigs: 2
+Theme: Duplo
+Set Number: 10864-1
+Year: 2018
+==================================================
+Name: Fun Creations
+Pieces: 70
+Minifigs: None
+Theme: Duplo
+Set Number: 10865-1
+Year: 2018
+==================================================
+Name: Farmers' Market
+Pieces: 26
+Minifigs: 3
+Theme: Duplo
+Set Number: 10867-1
+Year: 2018
+==================================================
+Name: Farm Pony Stable
+Pieces: 59
+Minifigs: 2
+Theme: Duplo
+Set Number: 10868-1
+Year: 2018
+==================================================
+Name: Farm Adventures
+Pieces: 104
+Minifigs: 3
+Theme: Duplo
+Set Number: 10869-1
+Year: 2018
+==================================================
+Name: Farm Animals
+Pieces: 16
+Minifigs: None
+Theme: Duplo
+Set Number: 10870-1
+Year: 2018
+==================================================
+Name: Airport
+Pieces: 29
+Minifigs: 3
+Theme: Duplo
+Set Number: 10871-1
+Year: 2018
+==================================================
+Name: Train Bridge and Tracks
+Pieces: 26
+Minifigs: 1
+Theme: Duplo
+Set Number: 10872-1
+Year: 2018
+==================================================
+Name: Minnie's Birthday Party
+Pieces: 21
+Minifigs: 1
+Theme: Duplo
+Set Number: 10873-1
+Year: 2018
+==================================================
+Name: Steam Train
+Pieces: 59
+Minifigs: 2
+Theme: Duplo
+Set Number: 10874-1
+Year: 2018
+==================================================
+Name: Cargo Train
+Pieces: 105
+Minifigs: 3
+Theme: Duplo
+Set Number: 10875-1
+Year: 2018
+==================================================
+Name: Spider-Man & Hulk Adventures
+Pieces: 38
+Minifigs: 3
+Theme: Duplo
+Set Number: 10876-1
+Year: 2018
+==================================================
+Name: Police Patrol
+Pieces: 15
+Minifigs: 2
+Theme: Duplo
+Set Number: 10809-1
+Year: 2016
+==================================================
+Name: Push Train
+Pieces: 45
+Minifigs: 2
+Theme: Duplo
+Set Number: 10810-1
+Year: 2016
+==================================================
+Name: Backhoe Loader
+Pieces: 19
+Minifigs: 1
+Theme: Duplo
+Set Number: 10811-1
+Year: 2016
+==================================================
+Name: Truck & Tracked Excavator
+Pieces: 28
+Minifigs: 2
+Theme: Duplo
+Set Number: 10812-1
+Year: 2016
+==================================================
+Name: Big Construction Site
+Pieces: 67
+Minifigs: 3
+Theme: Duplo
+Set Number: 10813-1
+Year: 2016
+==================================================
+Name: Tow Truck
+Pieces: 28
+Minifigs: 2
+Theme: Duplo
+Set Number: 10814-1
+Year: 2016
+==================================================
+Name: My First Rocket
+Pieces: 18
+Minifigs: None
+Theme: Duplo
+Set Number: 10815-1
+Year: 2016
+==================================================
+Name: My First Cars and Trucks
+Pieces: 36
+Minifigs: None
+Theme: Duplo
+Set Number: 10816-1
+Year: 2016
+==================================================
+Name: Creative Chest
+Pieces: 70
+Minifigs: None
+Theme: Duplo
+Set Number: 10817-1
+Year: 2016
+==================================================
+Name: My First Truck
+Pieces: 29
+Minifigs: 2
+Theme: Duplo
+Set Number: 10818-1
+Year: 2016
+==================================================
+Name: My First Garden
+Pieces: 25
+Minifigs: 2
+Theme: Duplo
+Set Number: 10819-1
+Year: 2016
+==================================================
+Name: Creative Construction Basket
+Pieces: 110
+Minifigs: 2
+Theme: Duplo
+Set Number: 10820-1
+Year: 2016
+==================================================
+Name: Sofia's Magical Carriage
+Pieces: 30
+Minifigs: 1
+Theme: Duplo
+Set Number: 10822-1
+Year: 2016
+==================================================
+Name: Miles' Space Adventures
+Pieces: 23
+Minifigs: 1
+Theme: Duplo
+Set Number: 10824-1
+Year: 2016
+==================================================
+Name: Miles' Exo-Flex Suit
+Pieces: 37
+Minifigs: 1
+Theme: Duplo
+Set Number: 10825-1
+Year: 2016
+==================================================
+Name: Miles' Stellosphere Hangar
+Pieces: 44
+Minifigs: 1
+Theme: Duplo
+Set Number: 10826-1
+Year: 2016
+==================================================
+Name: Mickey & Friends Beach House
+Pieces: 48
+Minifigs: 3
+Theme: Duplo
+Set Number: 10827-1
+Year: 2016
+==================================================
+Name: Doc's Pet Vet Care
+Pieces: 30
+Minifigs: 1
+Theme: Duplo
+Set Number: 10828-1
+Year: 2016
+==================================================
+Name: Mickey's Workshop
+Pieces: 18
+Minifigs: 1
+Theme: Duplo
+Set Number: 10829-1
+Year: 2016
+==================================================
+Name: Minnie's Café
+Pieces: 27
+Minifigs: 1
+Theme: Duplo
+Set Number: 10830-1
+Year: 2016
+==================================================
+Name: My First Caterpillar
+Pieces: 19
+Minifigs: None
+Theme: Duplo
+Set Number: 10831-1
+Year: 2016
+==================================================
+Name: City: Build Your Own Adventure parts
+Pieces: 92
+Minifigs: 1
+Theme: City
+Set Number: 11911-1
+Year: 2016
+==================================================
+Name: LEGO Star Wars: Build Your Own Adventure parts
+Pieces: 73
+Minifigs: 1
+Theme: Star Wars
+Set Number: 11912-1
+Year: 2016
+==================================================
+Name: Venice
+Pieces: 212
+Minifigs: None
+Theme: Architecture
+Set Number: 21026-1
+Year: 2016
+==================================================
+Name: Berlin
+Pieces: 289
+Minifigs: None
+Theme: Architecture
+Set Number: 21027-1
+Year: 2016
+==================================================
+Name: Florida 500 Final Race
+Pieces: 266
+Minifigs: 5
+Theme: Juniors
+Set Number: 10745-1
+Year: 2017
+==================================================
+Name: Mia's Farm Suitcase
+Pieces: 100
+Minifigs: 1
+Theme: Juniors
+Set Number: 10746-1
+Year: 2017
+==================================================
+Name: Andrea and Stephanie's Beach Holiday
+Pieces: 143
+Minifigs: 2
+Theme: Juniors
+Set Number: 10747-1
+Year: 2017
+==================================================
+Name: Batwing Adventure
+Pieces: 28
+Minifigs: 2
+Theme: Duplo
+Set Number: 10823-1
+Year: 2017
+==================================================
+Name: Birthday Party
+Pieces: 19
+Minifigs: 3
+Theme: Duplo
+Set Number: 10832-1
+Year: 2017
+==================================================
+Name: Nursery School
+Pieces: 39
+Minifigs: 3
+Theme: Duplo
+Set Number: 10833-1
+Year: 2017
+==================================================
+Name: Pizzeria
+Pieces: 57
+Minifigs: 3
+Theme: Duplo
+Set Number: 10834-1
+Year: 2017
+==================================================
+Name: Family House
+Pieces: 69
+Minifigs: 3
+Theme: Duplo
+Set Number: 10835-1
+Year: 2017
+==================================================
+Name: Neighborhood
+Pieces: 98
+Minifigs: 5
+Theme: Duplo
+Set Number: 10836-1
+Year: 2017
+==================================================
+Name: Santa's Winter Holiday
+Pieces: 45
+Minifigs: 3
+Theme: Duplo
+Set Number: 10837-1
+Year: 2017
+==================================================
+Name: Pets
+Pieces: 15
+Minifigs: None
+Theme: Duplo
+Set Number: 10838-1
+Year: 2017
+==================================================
+Name: Shooting Gallery
+Pieces: 32
+Minifigs: 2
+Theme: Duplo
+Set Number: 10839-1
+Year: 2017
+==================================================
+Name: Big Fair
+Pieces: 106
+Minifigs: 5
+Theme: Duplo
+Set Number: 10840-1
+Year: 2017
+==================================================
+Name: Fun Family Fair
+Pieces: 61
+Minifigs: 4
+Theme: Duplo
+Set Number: 10841-1
+Year: 2017
+==================================================
+Name: Batcave Challenge
+Pieces: 73
+Minifigs: 4
+Theme: Duplo
+Set Number: 10842-1
+Year: 2017
+==================================================
+Name: Mickey Racer
+Pieces: 15
+Minifigs: 1
+Theme: Duplo
+Set Number: 10843-1
+Year: 2017
+==================================================
+Name: Minnie Mouse Bow-tique
+Pieces: 70
+Minifigs: 2
+Theme: Duplo
+Set Number: 10844-1
+Year: 2017
+==================================================
+Name: My First Carousel
+Pieces: 24
+Minifigs: 3
+Theme: Duplo
+Set Number: 10845-1
+Year: 2017
+==================================================
+Name: Flo's Café
+Pieces: 28
+Minifigs: 3
+Theme: Duplo
+Set Number: 10846-1
+Year: 2017
+==================================================
+Name: My First Number Train
+Pieces: 23
+Minifigs: 2
+Theme: Duplo
+Set Number: 10847-1
+Year: 2017
+==================================================
+Name: My First Building Blocks
+Pieces: 80
+Minifigs: None
+Theme: Duplo
+Set Number: 10848-1
+Year: 2017
+==================================================
+Name: My First Plane
+Pieces: 10
+Minifigs: None
+Theme: Duplo
+Set Number: 10849-1
+Year: 2017
+==================================================
+Name: My First Birthday Cake
+Pieces: 8
+Minifigs: None
+Theme: Duplo
+Set Number: 10850-1
+Year: 2017
+==================================================
+Name: My First Bus
+Pieces: 6
+Minifigs: None
+Theme: Duplo
+Set Number: 10851-1
+Year: 2017
+==================================================
+Name: My First Parrot
+Pieces: 7
+Minifigs: None
+Theme: Duplo
+Set Number: 10852-1
+Year: 2017
+==================================================
+Name: Treasure Island
+Pieces: 25
+Minifigs: 2
+Theme: Duplo
+Set Number: 10604-1
+Year: 2015
+==================================================
+Name: Rosie the Ambulance
+Pieces: 16
+Minifigs: 1
+Theme: Duplo
+Set Number: 10605-1
+Year: 2015
+==================================================
+Name: Backyard Clinic
+Pieces: 39
+Minifigs: 1
+Theme: Duplo
+Set Number: 10606-1
+Year: 2015
+==================================================
+Name: Spider-Man Web-Bike Workshop
+Pieces: 13
+Minifigs: 1
+Theme: Duplo
+Set Number: 10607-1
+Year: 2015
+==================================================
+Name: Spider-Man Spider Truck Adventure
+Pieces: 28
+Minifigs: 2
+Theme: Duplo
+Set Number: 10608-1
+Year: 2015
+==================================================
+Name: My First Tractor
+Pieces: 12
+Minifigs: 2
+Theme: Duplo
+Set Number: 10615-1
+Year: 2015
+==================================================
+Name: My First Playhouse
+Pieces: 25
+Minifigs: 2
+Theme: Duplo
+Set Number: 10616-1
+Year: 2015
+==================================================
+Name: My First Farm
+Pieces: 26
+Minifigs: 2
+Theme: Duplo
+Set Number: 10617-1
+Year: 2015
+==================================================
+Name: Creative Building Box
+Pieces: 70
+Minifigs: 2
+Theme: Duplo
+Set Number: 10618-1
+Year: 2015
+==================================================
+Name: Large Creative Box
+Pieces: 193
+Minifigs: 2
+Theme: Duplo
+Set Number: 10622-1
+Year: 2015
+==================================================
+Name: DUPLO Basic Bricks – Large
+Pieces: 60
+Minifigs: None
+Theme: Duplo
+Set Number: 10623-1
+Year: 2015
+==================================================
+Name: Beach Trip
+Pieces: 74
+Minifigs: 1
+Theme: Juniors
+Set Number: 10677-1
+Year: 2015
+==================================================
+Name: Pirate Treasure Hunt
+Pieces: 57
+Minifigs: 2
+Theme: Juniors
+Set Number: 10679-1
+Year: 2015
+==================================================
+Name: Garbage Truck
+Pieces: 99
+Minifigs: 2
+Theme: Juniors
+Set Number: 10680-1
+Year: 2015
+==================================================
+Name: Road Work Truck
+Pieces: 132
+Minifigs: 2
+Theme: Juniors
+Set Number: 10683-1
+Year: 2015
+==================================================
+Name: Supermarket Suitcase
+Pieces: 134
+Minifigs: 2
+Theme: Juniors
+Set Number: 10684-1
+Year: 2015
+==================================================
+Name: Fire Suitcase
+Pieces: 113
+Minifigs: 2
+Theme: Juniors
+Set Number: 10685-1
+Year: 2015
+==================================================
+Name: Family House
+Pieces: 226
+Minifigs: 3
+Theme: Juniors
+Set Number: 10686-1
+Year: 2015
+==================================================
+Name: Spider-Man Hideout
+Pieces: 137
+Minifigs: 3
+Theme: Juniors
+Set Number: 10687-1
+Year: 2015
+==================================================
+Name: Creative Bricks
+Pieces: 221
+Minifigs: None
+Theme: Classic
+Set Number: 10692-1
+Year: 2015
+==================================================
+Name: Creative Supplement
+Pieces: 303
+Minifigs: None
+Theme: Classic
+Set Number: 10693-1
+Year: 2015
+==================================================
+Name: Creative Supplement Bright
+Pieces: 303
+Minifigs: None
+Theme: Classic
+Set Number: 10694-1
+Year: 2015
+==================================================
+Name: Creative Building Box
+Pieces: 580
+Minifigs: None
+Theme: Classic
+Set Number: 10695-1
+Year: 2015
+==================================================
+Name: Medium Creative Brick Box
+Pieces: 484
+Minifigs: None
+Theme: Classic
+Set Number: 10696-1
+Year: 2015
+==================================================
+Name: XXXL Box
+Pieces: 1500
+Minifigs: None
+Theme: Classic
+Set Number: 10697-1
+Year: 2015
+==================================================
+Name: Abundant Wildlife Creative Building Set
+Pieces: 75
+Minifigs: None
+Theme: Duplo
+Set Number: 10853-1
+Year: 2017
+==================================================
+Name: Creative Box
+Pieces: 120
+Minifigs: 1
+Theme: Duplo
+Set Number: 10854-1
+Year: 2017
+==================================================
+Name: Cinderella's Magical Castle
+Pieces: 56
+Minifigs: 2
+Theme: Duplo
+Set Number: 10855-1
+Year: 2017
+==================================================
+Name: Mater's Shed
+Pieces: 23
+Minifigs: 1
+Theme: Duplo
+Set Number: 10856-1
+Year: 2017
+==================================================
+Name: Piston Cup Race
+Pieces: 31
+Minifigs: 3
+Theme: Duplo
+Set Number: 10857-1
+Year: 2017
+==================================================
+Name: LEGO NEXO KNIGHTS: Build Your Own Adventure parts 
+Pieces: 1
+Minifigs: 1
+Theme: Nexo Knights
+Set Number: 11913-1
+Year: 2017
+==================================================
+Name: DC Comics Super Heroes Build Your Own Adventure parts
+Pieces: 80
+Minifigs: 1
+Theme: DC Comics Super Heroes
+Set Number: 11914-1
+Year: 2017
+==================================================
+Name: Boost Creative Toolbox
+Pieces: 843
+Minifigs: None
+Theme: Boost
+Set Number: 17101-1
+Year: 2017
+==================================================
+Name: Sydney
+Pieces: 361
+Minifigs: None
+Theme: Architecture
+Set Number: 21032-1
+Year: 2017
+==================================================
+Name: Chicago
+Pieces: 444
+Minifigs: None
+Theme: Architecture
+Set Number: 21033-1
+Year: 2017
+==================================================
+Name: London
+Pieces: 468
+Minifigs: None
+Theme: Architecture
+Set Number: 21034-1
+Year: 2017
+==================================================
+Name: Solomon R. Guggenheim Museum
+Pieces: 744
+Minifigs: None
+Theme: Architecture
+Set Number: 21035-1
+Year: 2017
+==================================================
+Name: Arc de Triomphe
+Pieces: 386
+Minifigs: None
+Theme: Architecture
+Set Number: 21036-1
+Year: 2017
+==================================================
+Name: LEGO House
+Pieces: 774
+Minifigs: None
+Theme: Architecture
+Set Number: 21037-1
+Year: 2017
+==================================================
+Name: The Mushroom Island
+Pieces: 247
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21129-1
+Year: 2017
+==================================================
+Name: The Nether Railway
+Pieces: 387
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21130-1
+Year: 2017
+==================================================
+Name: The Ice Spikes
+Pieces: 454
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21131-1
+Year: 2017
+==================================================
+Name: Jungle Temple
+Pieces: 598
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21132-1
+Year: 2017
+==================================================
+Name: The Witch Hut
+Pieces: 502
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21133-1
+Year: 2017
+==================================================
+Name: The Waterfall Base
+Pieces: 729
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21134-1
+Year: 2017
+==================================================
+Name: The Crafting Box 2.0
+Pieces: 717
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21135-1
+Year: 2017
+==================================================
+Name: The Ocean Monument
+Pieces: 1122
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21136-1
+Year: 2017
+==================================================
+Name: The Mountain Cave
+Pieces: 2863
+Minifigs: 6
+Theme: Minecraft
+Set Number: 21137-1
+Year: 2017
+==================================================
+Name: Adventure Time
+Pieces: 495
+Minifigs: None
+Theme: Ideas
+Set Number: 21308-1
+Year: 2017
+==================================================
+Name: NASA Apollo Saturn V
+Pieces: 1969
+Minifigs: None
+Theme: Ideas
+Set Number: 21309-1
+Year: 2017
+==================================================
+Name: New York City
+Pieces: 598
+Minifigs: None
+Theme: Architecture
+Set Number: 21028-1
+Year: 2016
+==================================================
+Name: Buckingham Palace
+Pieces: 780
+Minifigs: None
+Theme: Architecture
+Set Number: 21029-1
+Year: 2016
+==================================================
+Name: United States Capitol Building
+Pieces: 1032
+Minifigs: None
+Theme: Architecture
+Set Number: 21030-1
+Year: 2016
+==================================================
+Name: Burj Khalifa
+Pieces: 333
+Minifigs: None
+Theme: Architecture
+Set Number: 21031-1
+Year: 2016
+==================================================
+Name: The Iron Golem
+Pieces: 208
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21123-1
+Year: 2016
+==================================================
+Name: The End Portal
+Pieces: 559
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21124-1
+Year: 2016
+==================================================
+Name: The Jungle Tree House
+Pieces: 706
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21125-1
+Year: 2016
+==================================================
+Name: The Wither
+Pieces: 318
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21126-1
+Year: 2016
+==================================================
+Name: The Fortress
+Pieces: 984
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21127-1
+Year: 2016
+==================================================
+Name: The Village
+Pieces: 1600
+Minifigs: 9
+Theme: Minecraft
+Set Number: 21128-1
+Year: 2016
+==================================================
+Name: Maze
+Pieces: 769
+Minifigs: None
+Theme: Ideas
+Set Number: 21305-1
+Year: 2016
+==================================================
+Name: The Beatles Yellow Submarine
+Pieces: 553
+Minifigs: 5
+Theme: Ideas
+Set Number: 21306-1
+Year: 2016
+==================================================
+Name: Caterham Seven 620R
+Pieces: 771
+Minifigs: None
+Theme: Ideas
+Set Number: 21307-1
+Year: 2016
+==================================================
+Name: First Order Star Destroyer
+Pieces: 56
+Minifigs: None
+Theme: Star Wars
+Set Number: 30277-1
+Year: 2016
+==================================================
+Name: Poe's X-wing Fighter
+Pieces: 64
+Minifigs: None
+Theme: Star Wars
+Set Number: 30278-1
+Year: 2016
+==================================================
+Name: Kylo Ren's Command Shuttle
+Pieces: 43
+Minifigs: None
+Theme: Star Wars
+Set Number: 30279-1
+Year: 2016
+==================================================
+Name: Duck
+Pieces: 4
+Minifigs: None
+Theme: Duplo
+Set Number: 30321-1
+Year: 2016
+==================================================
+Name: Wildlife {Random bag}
+Pieces: 7
+Minifigs: None
+Theme: Duplo
+Set Number: 30322-0
+Year: 2016
+==================================================
+Name: Wildlife - Polar Bear
+Pieces: None
+Minifigs: None
+Theme: Duplo
+Set Number: 30322-2
+Year: 2016
+==================================================
+Name: Wildlife - Penguin
+Pieces: None
+Minifigs: None
+Theme: Duplo
+Set Number: 30322-3
+Year: 2016
+==================================================
+Name: Wildlife - Tortoise
+Pieces: None
+Minifigs: None
+Theme: Duplo
+Set Number: 30322-4
+Year: 2016
+==================================================
+Name: Wildlife - Lion Cub
+Pieces: None
+Minifigs: None
+Theme: Duplo
+Set Number: 30322-5
+Year: 2016
+==================================================
+Name: Wildlife - Elephant
+Pieces: None
+Minifigs: None
+Theme: Duplo
+Set Number: 30322-6
+Year: 2016
+==================================================
+Name: Prison Island Floatplane
+Pieces: 46
+Minifigs: 1
+Theme: City
+Set Number: 30346-1
+Year: 2016
+==================================================
+Name: Fire Car
+Pieces: 53
+Minifigs: 1
+Theme: City
+Set Number: 30347-1
+Year: 2016
+==================================================
+Name: Belle's Tea Party
+Pieces: 19
+Minifigs: 4
+Theme: Duplo
+Set Number: 10877-1
+Year: 2018
+==================================================
+Name: Rapunzel's Tower
+Pieces: 37
+Minifigs: 1
+Theme: Duplo
+Set Number: 10878-1
+Year: 2018
+==================================================
+Name: Gentle Giants Petting Zoo
+Pieces: 24
+Minifigs: 1
+Theme: Duplo
+Set Number: 10879-1
+Year: 2018
+==================================================
+Name: T. rex Tower
+Pieces: 22
+Minifigs: 1
+Theme: Duplo
+Set Number: 10880-1
+Year: 2018
+==================================================
+Name: Mickey's Boat
+Pieces: 28
+Minifigs: 2
+Theme: Duplo
+Set Number: 10881-1
+Year: 2018
+==================================================
+Name: Train Tracks
+Pieces: 23
+Minifigs: None
+Theme: Duplo
+Set Number: 10882-1
+Year: 2018
+==================================================
+Name: NINJAGO Build Your Own Adventure parts
+Pieces: 67
+Minifigs: 1
+Theme: Ninjago
+Set Number: 11915-1
+Year: 2018
+==================================================
+Name: Parts for Disney Princess: Build your own Adventure
+Pieces: 83
+Minifigs: 1
+Theme: Disney
+Set Number: 11916-1
+Year: 2018
+==================================================
+Name: Animal Atlas parts
+Pieces: 60
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11917-1
+Year: 2018
+==================================================
+Name: Parts for {LEGO Atlas series #2}
+Pieces: None
+Minifigs: None
+Theme: Miscellaneous
+Set Number: 11921-1
+Year: 2018
+==================================================
+Name: Las Vegas
+Pieces: None
+Minifigs: None
+Theme: Architecture
+Set Number: 21038-1
+Year: 2018
+==================================================
+Name: Shanghai
+Pieces: 597
+Minifigs: None
+Theme: Architecture
+Set Number: 21039-1
+Year: 2018
+==================================================
+Name: Great Wall of China
+Pieces: 551
+Minifigs: None
+Theme: Architecture
+Set Number: 21041-1
+Year: 2018
+==================================================
+Name: Statue of Liberty
+Pieces: 1685
+Minifigs: None
+Theme: Architecture
+Set Number: 21042-1
+Year: 2018
+==================================================
+Name: Las Vegas
+Pieces: 501
+Minifigs: None
+Theme: Architecture
+Set Number: 21047-1
+Year: 2018
+==================================================
+Name: The Melon Farm
+Pieces: 69
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21138-1
+Year: 2018
+==================================================
+Name: The Nether Fight
+Pieces: 84
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21139-1
+Year: 2018
+==================================================
+Name: The Chicken Coop
+Pieces: 198
+Minifigs: 1
+Theme: Minecraft
+Set Number: 21140-1
+Year: 2018
+==================================================
+Name: The Zombie Cave
+Pieces: 241
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21141-1
+Year: 2018
+==================================================
+Name: The Polar Igloo
+Pieces: 278
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21142-1
+Year: 2018
+==================================================
+Name: The Nether Portal
+Pieces: 470
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21143-1
+Year: 2018
+==================================================
+Name: The Farm Cottage 
+Pieces: 549
+Minifigs: 3
+Theme: Minecraft
+Set Number: 21144-1
+Year: 2018
+==================================================
+Name: The Skull Arena
+Pieces: 198
+Minifigs: 2
+Theme: Minecraft
+Set Number: 21145-1
+Year: 2018
+==================================================
+Name: The Skeleton Attack
+Pieces: 457
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21146-1
+Year: 2018
+==================================================
+Name: The Bedrock Adventures
+Pieces: 644
+Minifigs: 4
+Theme: Minecraft
+Set Number: 21147-1
+Year: 2018
+==================================================
