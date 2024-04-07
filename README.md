@@ -30,11 +30,11 @@ lego_api_project/
 
 2. **Run Python Script to import data:**
     ```bash
-   pythin import_data.py
+   python import_data.py
     ```
 3. **Run Go script:**
     ```bash
-  run go main.go
+   go run main.go
     ```
 
 4. **Access the API:**
