@@ -5,8 +5,8 @@ class BrickSetScraper(scrapy.Spider):
     name = 'brickset_spider'
     start_urls = []
     CURRENT_YEAR = datetime.date(datetime.now()).year
-    START_YEAR = 2015
-    END_YEAR = 2018
+    START_YEAR = CURRENT_YEAR - 1
+    END_YEAR = CURRENT_YEAR
 
     for year in range(START_YEAR, END_YEAR+1):
         start_urls.append("https://brickset.com/sets/year-"+str(year))
